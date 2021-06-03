@@ -7,7 +7,6 @@ on:
   # schedule:
   #     - workflow_dispatch
   # #   - cron: '1 0 * * *' #UTC
-
 jobs:
   run:
     name: Make GitHub Traffic to Badge
@@ -15,10 +14,6 @@ jobs:
     steps:
       - name: Checkout Code
         uses: actions/checkout@v2.3.4
-
-      - name: Get Repo List
-        id: repo
-        uses: yi-Xu-0100/repo-list-generator@v1.0.1
 
       - name: Get Commit Message
         id: message
@@ -39,21 +34,19 @@ jobs:
         id: traffic
         uses: yi-Xu-0100/traffic-to-badge@v1.4.0
         with:
-          my_token: ${{ secrets.TRAFFIC_ACTION_TOKEN }}
-          # static_list: ${{ github.repository }}
-          static_list: '${{ steps.repo.outputs.repoList }}'
-          # static_list: '0m4r/MMM-covid19'
-          # static_list: MMM-covid19,MMM-SoccerLiveScore,MMM-PublicTransportHafas
-          # (default) traffic_branch: traffic
-          # (default) views_color: brightgreen
-          # (default) clones_color: brightgreen
-          # (default) views_week_color: brightgreen
-          # (default) clones_week_color: brightgreen
-          # (default) total_views_color: brightgreen
-          # (default) total_clones_color: brightgreen
-          # (default) total_views_week_color: brightgreen
-          # (default) total_clones_week_color: brightgreen
-          # (default) logo: github
+          my_token: ${{ secrets.TRAFFIC_TOKEN }}
+          static_list: 0m4r/MMM-covid19
+          #(default) static_list: ${{ github.repository }}
+          #(default) traffic_branch: traffic
+          #(default) views_color: brightgreen
+          #(default) clones_color: brightgreen
+          #(default) views_week_color: brightgreen
+          #(default) clones_week_color: brightgreen
+          #(default) total_views_color: brightgreen
+          #(default) total_clones_color: brightgreen
+          #(default) total_views_week_color: brightgreen
+          #(default) total_clones_week_color: brightgreen
+          #(default) logo: github
           year: 2021
 
       - name: Deploy
