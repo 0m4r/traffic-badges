@@ -34,66 +34,6 @@
 [![total clones per week](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/total_clones_per_week.svg)](https://github.com/0m4r/traffic-badges/tree/traffic#-total-traffic-data-badge)
 ```
 
-## 📚 [bgSize-polyfil](https://github.com/0m4r/traffic-badges/tree/traffic/traffic-bgSize-polyfil)
-
-### 📷 Badges without link of [bgSize-polyfil](https://github.com/0m4r/traffic-badges/tree/traffic/traffic-bgSize-polyfil)
-
-![views](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-bgSize-polyfil/views.svg)
-![views per week](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-bgSize-polyfil/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-bgSize-polyfil/clones.svg)
-![clones per week](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-bgSize-polyfil/clones_per_week.svg)
-
-```markdown
-![views](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-bgSize-polyfil/views.svg)
-![views per week](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-bgSize-polyfil/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-bgSize-polyfil/clones.svg)
-![clones per week](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-bgSize-polyfil/clones_per_week.svg)
-```
-
-### 🔗 Badges with link of [bgSize-polyfil](https://github.com/0m4r/traffic-badges/tree/traffic/traffic-bgSize-polyfil)
-
-[![views](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-bgSize-polyfil/views.svg)](https://github.com/0m4r/traffic-badges/tree/traffic#-bgSize-polyfil)
-[![views per week](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-bgSize-polyfil/views_per_week.svg)](https://github.com/0m4r/traffic-badges/tree/traffic#-bgSize-polyfil)
-[![clones](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-bgSize-polyfil/clones.svg)](https://github.com/0m4r/traffic-badges/tree/traffic#-bgSize-polyfil)
-[![clones per week](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-bgSize-polyfil/clones_per_week.svg)](https://github.com/0m4r/traffic-badges/tree/traffic#-bgSize-polyfil)
-
-```markdown
-[![views](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-bgSize-polyfil/views.svg)](https://github.com/0m4r/traffic-badges/tree/traffic#-bgSize-polyfil)
-[![views per week](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-bgSize-polyfil/views_per_week.svg)](https://github.com/0m4r/traffic-badges/tree/traffic#-bgSize-polyfil)
-[![clones](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-bgSize-polyfil/clones.svg)](https://github.com/0m4r/traffic-badges/tree/traffic#-bgSize-polyfil)
-[![clones per week](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-bgSize-polyfil/clones_per_week.svg)](https://github.com/0m4r/traffic-badges/tree/traffic#-bgSize-polyfil)
-```
-
-## 📚 [formloginauth](https://github.com/0m4r/traffic-badges/tree/traffic/traffic-formloginauth)
-
-### 📷 Badges without link of [formloginauth](https://github.com/0m4r/traffic-badges/tree/traffic/traffic-formloginauth)
-
-![views](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-formloginauth/views.svg)
-![views per week](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-formloginauth/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-formloginauth/clones.svg)
-![clones per week](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-formloginauth/clones_per_week.svg)
-
-```markdown
-![views](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-formloginauth/views.svg)
-![views per week](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-formloginauth/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-formloginauth/clones.svg)
-![clones per week](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-formloginauth/clones_per_week.svg)
-```
-
-### 🔗 Badges with link of [formloginauth](https://github.com/0m4r/traffic-badges/tree/traffic/traffic-formloginauth)
-
-[![views](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-formloginauth/views.svg)](https://github.com/0m4r/traffic-badges/tree/traffic#-formloginauth)
-[![views per week](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-formloginauth/views_per_week.svg)](https://github.com/0m4r/traffic-badges/tree/traffic#-formloginauth)
-[![clones](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-formloginauth/clones.svg)](https://github.com/0m4r/traffic-badges/tree/traffic#-formloginauth)
-[![clones per week](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-formloginauth/clones_per_week.svg)](https://github.com/0m4r/traffic-badges/tree/traffic#-formloginauth)
-
-```markdown
-[![views](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-formloginauth/views.svg)](https://github.com/0m4r/traffic-badges/tree/traffic#-formloginauth)
-[![views per week](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-formloginauth/views_per_week.svg)](https://github.com/0m4r/traffic-badges/tree/traffic#-formloginauth)
-[![clones](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-formloginauth/clones.svg)](https://github.com/0m4r/traffic-badges/tree/traffic#-formloginauth)
-[![clones per week](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-formloginauth/clones_per_week.svg)](https://github.com/0m4r/traffic-badges/tree/traffic#-formloginauth)
-```
-
 ## 📚 [MMM-covid19](https://github.com/0m4r/traffic-badges/tree/traffic/traffic-MMM-covid19)
 
 ### 📷 Badges without link of [MMM-covid19](https://github.com/0m4r/traffic-badges/tree/traffic/traffic-MMM-covid19)
@@ -124,32 +64,62 @@
 [![clones per week](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-MMM-covid19/clones_per_week.svg)](https://github.com/0m4r/traffic-badges/tree/traffic#-MMM-covid19)
 ```
 
-## 📚 [traffic-badges](https://github.com/0m4r/traffic-badges/tree/traffic/traffic-traffic-badges)
+## 📚 [MMM-PublicTransportHafas](https://github.com/0m4r/traffic-badges/tree/traffic/traffic-MMM-PublicTransportHafas)
 
-### 📷 Badges without link of [traffic-badges](https://github.com/0m4r/traffic-badges/tree/traffic/traffic-traffic-badges)
+### 📷 Badges without link of [MMM-PublicTransportHafas](https://github.com/0m4r/traffic-badges/tree/traffic/traffic-MMM-PublicTransportHafas)
 
-![views](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-traffic-badges/views.svg)
-![views per week](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-traffic-badges/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-traffic-badges/clones.svg)
-![clones per week](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-traffic-badges/clones_per_week.svg)
+![views](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-MMM-PublicTransportHafas/views.svg)
+![views per week](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-MMM-PublicTransportHafas/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-MMM-PublicTransportHafas/clones.svg)
+![clones per week](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-MMM-PublicTransportHafas/clones_per_week.svg)
 
 ```markdown
-![views](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-traffic-badges/views.svg)
-![views per week](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-traffic-badges/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-traffic-badges/clones.svg)
-![clones per week](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-traffic-badges/clones_per_week.svg)
+![views](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-MMM-PublicTransportHafas/views.svg)
+![views per week](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-MMM-PublicTransportHafas/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-MMM-PublicTransportHafas/clones.svg)
+![clones per week](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-MMM-PublicTransportHafas/clones_per_week.svg)
 ```
 
-### 🔗 Badges with link of [traffic-badges](https://github.com/0m4r/traffic-badges/tree/traffic/traffic-traffic-badges)
+### 🔗 Badges with link of [MMM-PublicTransportHafas](https://github.com/0m4r/traffic-badges/tree/traffic/traffic-MMM-PublicTransportHafas)
 
-[![views](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-traffic-badges/views.svg)](https://github.com/0m4r/traffic-badges/tree/traffic#-traffic-badges)
-[![views per week](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-traffic-badges/views_per_week.svg)](https://github.com/0m4r/traffic-badges/tree/traffic#-traffic-badges)
-[![clones](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-traffic-badges/clones.svg)](https://github.com/0m4r/traffic-badges/tree/traffic#-traffic-badges)
-[![clones per week](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-traffic-badges/clones_per_week.svg)](https://github.com/0m4r/traffic-badges/tree/traffic#-traffic-badges)
+[![views](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-MMM-PublicTransportHafas/views.svg)](https://github.com/0m4r/traffic-badges/tree/traffic#-MMM-PublicTransportHafas)
+[![views per week](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-MMM-PublicTransportHafas/views_per_week.svg)](https://github.com/0m4r/traffic-badges/tree/traffic#-MMM-PublicTransportHafas)
+[![clones](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-MMM-PublicTransportHafas/clones.svg)](https://github.com/0m4r/traffic-badges/tree/traffic#-MMM-PublicTransportHafas)
+[![clones per week](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-MMM-PublicTransportHafas/clones_per_week.svg)](https://github.com/0m4r/traffic-badges/tree/traffic#-MMM-PublicTransportHafas)
 
 ```markdown
-[![views](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-traffic-badges/views.svg)](https://github.com/0m4r/traffic-badges/tree/traffic#-traffic-badges)
-[![views per week](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-traffic-badges/views_per_week.svg)](https://github.com/0m4r/traffic-badges/tree/traffic#-traffic-badges)
-[![clones](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-traffic-badges/clones.svg)](https://github.com/0m4r/traffic-badges/tree/traffic#-traffic-badges)
-[![clones per week](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-traffic-badges/clones_per_week.svg)](https://github.com/0m4r/traffic-badges/tree/traffic#-traffic-badges)
+[![views](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-MMM-PublicTransportHafas/views.svg)](https://github.com/0m4r/traffic-badges/tree/traffic#-MMM-PublicTransportHafas)
+[![views per week](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-MMM-PublicTransportHafas/views_per_week.svg)](https://github.com/0m4r/traffic-badges/tree/traffic#-MMM-PublicTransportHafas)
+[![clones](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-MMM-PublicTransportHafas/clones.svg)](https://github.com/0m4r/traffic-badges/tree/traffic#-MMM-PublicTransportHafas)
+[![clones per week](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-MMM-PublicTransportHafas/clones_per_week.svg)](https://github.com/0m4r/traffic-badges/tree/traffic#-MMM-PublicTransportHafas)
+```
+
+## 📚 [MMM-SoccerLiveScore](https://github.com/0m4r/traffic-badges/tree/traffic/traffic-MMM-SoccerLiveScore)
+
+### 📷 Badges without link of [MMM-SoccerLiveScore](https://github.com/0m4r/traffic-badges/tree/traffic/traffic-MMM-SoccerLiveScore)
+
+![views](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-MMM-SoccerLiveScore/views.svg)
+![views per week](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-MMM-SoccerLiveScore/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-MMM-SoccerLiveScore/clones.svg)
+![clones per week](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-MMM-SoccerLiveScore/clones_per_week.svg)
+
+```markdown
+![views](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-MMM-SoccerLiveScore/views.svg)
+![views per week](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-MMM-SoccerLiveScore/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-MMM-SoccerLiveScore/clones.svg)
+![clones per week](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-MMM-SoccerLiveScore/clones_per_week.svg)
+```
+
+### 🔗 Badges with link of [MMM-SoccerLiveScore](https://github.com/0m4r/traffic-badges/tree/traffic/traffic-MMM-SoccerLiveScore)
+
+[![views](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-MMM-SoccerLiveScore/views.svg)](https://github.com/0m4r/traffic-badges/tree/traffic#-MMM-SoccerLiveScore)
+[![views per week](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-MMM-SoccerLiveScore/views_per_week.svg)](https://github.com/0m4r/traffic-badges/tree/traffic#-MMM-SoccerLiveScore)
+[![clones](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-MMM-SoccerLiveScore/clones.svg)](https://github.com/0m4r/traffic-badges/tree/traffic#-MMM-SoccerLiveScore)
+[![clones per week](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-MMM-SoccerLiveScore/clones_per_week.svg)](https://github.com/0m4r/traffic-badges/tree/traffic#-MMM-SoccerLiveScore)
+
+```markdown
+[![views](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-MMM-SoccerLiveScore/views.svg)](https://github.com/0m4r/traffic-badges/tree/traffic#-MMM-SoccerLiveScore)
+[![views per week](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-MMM-SoccerLiveScore/views_per_week.svg)](https://github.com/0m4r/traffic-badges/tree/traffic#-MMM-SoccerLiveScore)
+[![clones](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-MMM-SoccerLiveScore/clones.svg)](https://github.com/0m4r/traffic-badges/tree/traffic#-MMM-SoccerLiveScore)
+[![clones per week](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-MMM-SoccerLiveScore/clones_per_week.svg)](https://github.com/0m4r/traffic-badges/tree/traffic#-MMM-SoccerLiveScore)
 ```
