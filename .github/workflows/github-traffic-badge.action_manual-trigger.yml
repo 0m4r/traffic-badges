@@ -1,11 +1,12 @@
 name: Manual Github Traffic Action
 on:
-  push:
-    branches:
-      - traffic
-  schedule:
-      - workflow_dispatch
-  #   - cron: '1 0 * * *' #UTC
+  workflow_dispatch
+  # push:
+  #   branches:
+  #     - traffic
+  # schedule:
+  #     - workflow_dispatch
+  # #   - cron: '1 0 * * *' #UTC
 
 jobs:
   run:
