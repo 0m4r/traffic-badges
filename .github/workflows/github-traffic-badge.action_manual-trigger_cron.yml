@@ -1,7 +1,6 @@
-name: traffic2badge | cron
+name: traffic2badge | manual
 on:
-  schedule:
-    - cron: '1 0 * * *' #UTC
+  workflow_dispatch
 
 jobs:
   run:
