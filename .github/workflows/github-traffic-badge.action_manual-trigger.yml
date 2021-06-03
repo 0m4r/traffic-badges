@@ -35,8 +35,8 @@ jobs:
         uses: yi-Xu-0100/traffic-to-badge@v1.4.0
         with:
           my_token: ${{ secrets.TRAFFIC_ACTION_TOKEN }}
-          static_list: 0m4r/MMM-covid19
-          #(default) static_list: ${{ github.repository }}
+          # static_list: 0m4r/MMM-covid19
+          static_list: ${{ github.repository }}
           #(default) traffic_branch: traffic
           #(default) views_color: brightgreen
           #(default) clones_color: brightgreen
