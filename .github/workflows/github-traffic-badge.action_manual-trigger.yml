@@ -1,12 +1,12 @@
-name: Manual Github Traffic Action
+name: traffic2badge
 on:
   workflow_dispatch
   # push:
   #   branches:
-  #     - traffic
+  #     - main
   # schedule:
-  #     - workflow_dispatch
-  # #   - cron: '1 0 * * *' #UTC
+  #   - cron: '1 0 * * *' #UTC
+
 jobs:
   run:
     name: Make GitHub Traffic to Badge
@@ -35,8 +35,7 @@ jobs:
         uses: yi-Xu-0100/traffic-to-badge@v1.4.0
         with:
           my_token: ${{ secrets.TRAFFIC_ACTION_TOKEN }}
-          # static_list: 0m4r/MMM-covid19
-          static_list: ${{ github.repository }}
+          #(default) static_list: ${{ github.repository }}
           #(default) traffic_branch: traffic
           #(default) views_color: brightgreen
           #(default) clones_color: brightgreen
