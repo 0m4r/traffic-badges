@@ -41,7 +41,7 @@ jobs:
         with:
           my_token: ${{ secrets.TRAFFIC_ACTION_TOKEN }}
           # static_list: '${{ steps.repo.outputs.repoList }}'
-          static_list: MMM-covid19
+          static_list: 'MMM-covid19'
           # static_list: MMM-covid19,MMM-SoccerLiveScore,MMM-PublicTransportHafas
           # (default) traffic_branch: traffic
           # (default) views_color: brightgreen
