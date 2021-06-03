@@ -40,7 +40,8 @@ jobs:
         uses: yi-Xu-0100/traffic-to-badge@v1.4.0
         with:
           my_token: ${{ secrets.TRAFFIC_ACTION_TOKEN }}
-          static_list: '${{ steps.repo.outputs.repoList }}'
+          # static_list: '${{ steps.repo.outputs.repoList }}'
+          static_list: MMM-covid19, MMM-SoccerLiveScore, MMM-PublicTransportHafas
           # (default) traffic_branch: traffic
           # (default) views_color: brightgreen
           # (default) clones_color: brightgreen
