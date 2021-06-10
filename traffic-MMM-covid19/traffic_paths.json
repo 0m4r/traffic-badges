@@ -2,14 +2,8 @@
   {
     "path": "/0m4r/MMM-covid19",
     "title": "GitHub - 0m4r/MMM-covid19: Magic Mirror Module to display stats on Covid19",
-    "count": 96,
-    "uniques": 58
-  },
-  {
-    "path": "/0m4r/MMM-covid19/blob/main/README.md",
-    "title": "MMM-covid19/README.md at main · 0m4r/MMM-covid19 · GitHub",
-    "count": 3,
-    "uniques": 3
+    "count": 91,
+    "uniques": 53
   },
   {
     "path": "/0m4r/MMM-covid19/issues",
@@ -18,16 +12,10 @@
     "uniques": 1
   },
   {
-    "path": "/0m4r/MMM-covid19/tree/main/docs",
-    "title": "MMM-covid19/docs at main · 0m4r/MMM-covid19 · GitHub",
+    "path": "/0m4r/MMM-covid19/blob/main/README.md",
+    "title": "MMM-covid19/README.md at main · 0m4r/MMM-covid19 · GitHub",
     "count": 2,
     "uniques": 2
-  },
-  {
-    "path": "/0m4r/MMM-covid19/commit/a8e71a46982e8a0dd119f9cc813a4e15ec68f121",
-    "title": "feat: add node-schedule (#10) · 0m4r/MMM-covid19@a8e71a4 · GitHub",
-    "count": 2,
-    "uniques": 1
   },
   {
     "path": "/0m4r/MMM-covid19/pulls",
@@ -48,14 +36,26 @@
     "uniques": 1
   },
   {
-    "path": "/0m4r/MMM-covid19/blob/main/node_helper.js",
-    "title": "MMM-covid19/node_helper.js at main · 0m4r/MMM-covid19 · GitHub",
+    "path": "/0m4r/MMM-covid19/blob/main/.github/workflows/github-traffic-action_cron-trigger.yml",
+    "title": "MMM-covid19/github-traffic-action_cron-trigger.yml at main · 0m4r/MMM-covid19...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/0m4r/MMM-covid19/commits",
+    "title": "Commits · 0m4r/MMM-covid19 · GitHub",
     "count": 1,
     "uniques": 1
   },
   {
     "path": "/0m4r/MMM-covid19/commits/main",
     "title": "Commits · 0m4r/MMM-covid19",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/0m4r/MMM-covid19/issues/11",
+    "title": "How does one install this module? · Issue #11 · 0m4r/MMM-covid19",
     "count": 1,
     "uniques": 1
   }
