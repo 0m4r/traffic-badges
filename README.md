@@ -123,3 +123,33 @@
 [![clones](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-MMM-SoccerLiveScore/clones.svg)](https://github.com/0m4r/traffic-badges/tree/traffic#-MMM-SoccerLiveScore)
 [![clones per week](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-MMM-SoccerLiveScore/clones_per_week.svg)](https://github.com/0m4r/traffic-badges/tree/traffic#-MMM-SoccerLiveScore)
 ```
+
+## 📚 [MMM-euro2021](https://github.com/0m4r/traffic-badges/tree/traffic/traffic-MMM-euro2021)
+
+### 📷 Badges without link of [MMM-euro2021](https://github.com/0m4r/traffic-badges/tree/traffic/traffic-MMM-euro2021)
+
+![views](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-MMM-euro2021/views.svg)
+![views per week](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-MMM-euro2021/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-MMM-euro2021/clones.svg)
+![clones per week](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-MMM-euro2021/clones_per_week.svg)
+
+```markdown
+![views](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-MMM-euro2021/views.svg)
+![views per week](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-MMM-euro2021/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-MMM-euro2021/clones.svg)
+![clones per week](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-MMM-euro2021/clones_per_week.svg)
+```
+
+### 🔗 Badges with link of [MMM-euro2021](https://github.com/0m4r/traffic-badges/tree/traffic/traffic-MMM-euro2021)
+
+[![views](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-MMM-euro2021/views.svg)](https://github.com/0m4r/traffic-badges/tree/traffic#-MMM-euro2021)
+[![views per week](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-MMM-euro2021/views_per_week.svg)](https://github.com/0m4r/traffic-badges/tree/traffic#-MMM-euro2021)
+[![clones](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-MMM-euro2021/clones.svg)](https://github.com/0m4r/traffic-badges/tree/traffic#-MMM-euro2021)
+[![clones per week](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-MMM-euro2021/clones_per_week.svg)](https://github.com/0m4r/traffic-badges/tree/traffic#-MMM-euro2021)
+
+```markdown
+[![views](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-MMM-euro2021/views.svg)](https://github.com/0m4r/traffic-badges/tree/traffic#-MMM-euro2021)
+[![views per week](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-MMM-euro2021/views_per_week.svg)](https://github.com/0m4r/traffic-badges/tree/traffic#-MMM-euro2021)
+[![clones](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-MMM-euro2021/clones.svg)](https://github.com/0m4r/traffic-badges/tree/traffic#-MMM-euro2021)
+[![clones per week](https://raw.githubusercontent.com/0m4r/traffic-badges/traffic/traffic-MMM-euro2021/clones_per_week.svg)](https://github.com/0m4r/traffic-badges/tree/traffic#-MMM-euro2021)
+```
