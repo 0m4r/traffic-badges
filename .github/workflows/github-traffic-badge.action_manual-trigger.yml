@@ -35,7 +35,7 @@ jobs:
         uses: yi-Xu-0100/traffic-to-badge@v1.4.0
         with:
           my_token: ${{ secrets.TRAFFIC_ACTION_TOKEN }}
-          static_list: 0m4r/MMM-covid19,0m4r/MMM-PublicTransportHafas,0m4r/MMM-SoccerLiveScore
+          static_list: 0m4r/MMM-covid19,0m4r/MMM-PublicTransportHafas,0m4r/MMM-SoccerLiveScore,0m4r/MMM-euro2021
           year: 2021
 
       - name: Deploy
