@@ -2,8 +2,8 @@
   {
     "path": "/0m4r/MMM-SoccerLiveScore",
     "title": "GitHub - 0m4r/MMM-SoccerLiveScore: Displays Soccer-Live-Scores on MagicMirror",
-    "count": 101,
-    "uniques": 57
+    "count": 95,
+    "uniques": 54
   },
   {
     "path": "/0m4r/MMM-SoccerLiveScore/tree/feat/match-details",
@@ -22,12 +22,6 @@
     "title": "Issues · 0m4r/MMM-SoccerLiveScore · GitHub",
     "count": 8,
     "uniques": 7
-  },
-  {
-    "path": "/0m4r/MMM-SoccerLiveScore/blob/master/MMM-SoccerLiveScores-Scorers.png",
-    "title": "MMM-SoccerLiveScore/MMM-SoccerLiveScores-Scorers.png at master · 0m4r/MMM-Soc...",
-    "count": 4,
-    "uniques": 3
   },
   {
     "path": "/0m4r/MMM-SoccerLiveScore/tree/master",
@@ -56,6 +50,12 @@
   {
     "path": "/0m4r/MMM-SoccerLiveScore/blob/feat/match-details/MMM-SoccerLiveScore.js",
     "title": "MMM-SoccerLiveScore/MMM-SoccerLiveScore.js at feat/match-details · 0m4r/MMM-S...",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/0m4r/MMM-SoccerLiveScore/blob/master/MMM-SoccerLiveScores-Scorers.png",
+    "title": "MMM-SoccerLiveScore/MMM-SoccerLiveScores-Scorers.png at master · 0m4r/MMM-Soc...",
     "count": 2,
     "uniques": 2
   }
