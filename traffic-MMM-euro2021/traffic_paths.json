@@ -2,8 +2,20 @@
   {
     "path": "/0m4r/MMM-euro2021",
     "title": "GitHub - 0m4r/MMM-euro2021: a Magic Mirror Module to display Euro 2020 fixtur...",
-    "count": 57,
-    "uniques": 33
+    "count": 88,
+    "uniques": 46
+  },
+  {
+    "path": "/0m4r/MMM-euro2021/blob/main/secret.js.EXAMPLE",
+    "title": "MMM-euro2021/secret.js.EXAMPLE at main · 0m4r/MMM-euro2021 · GitHub",
+    "count": 27,
+    "uniques": 14
+  },
+  {
+    "path": "/0m4r/MMM-euro2021/blob/main/README.md",
+    "title": "MMM-euro2021/README.md at main · 0m4r/MMM-euro2021 · GitHub",
+    "count": 16,
+    "uniques": 10
   },
   {
     "path": "/0m4r/MMM-euro2021/blob/main/MMM-euro2021_screenshot.png",
@@ -12,22 +24,10 @@
     "uniques": 6
   },
   {
-    "path": "/0m4r/MMM-euro2021/blob/main/secret.js.EXAMPLE",
-    "title": "MMM-euro2021/secret.js.EXAMPLE at main · 0m4r/MMM-euro2021 · GitHub",
-    "count": 9,
-    "uniques": 5
-  },
-  {
-    "path": "/0m4r/MMM-euro2021/blob/main/README.md",
-    "title": "MMM-euro2021/README.md at main · 0m4r/MMM-euro2021 · GitHub",
-    "count": 7,
-    "uniques": 4
-  },
-  {
     "path": "/0m4r/MMM-euro2021/blob/main/MMM-euro2021.js",
     "title": "MMM-euro2021/MMM-euro2021.js at main · 0m4r/MMM-euro2021 · GitHub",
-    "count": 5,
-    "uniques": 4
+    "count": 8,
+    "uniques": 6
   },
   {
     "path": "/0m4r/MMM-euro2021/blob/main/node_helper.js",
@@ -37,26 +37,26 @@
   },
   {
     "path": "/0m4r/MMM-euro2021/blob/main/MMM-euro2021.css",
-    "title": "MMM-euro2021/MMM-euro2021.css at main · 0m4r/MMM-euro2021",
+    "title": "MMM-euro2021/MMM-euro2021.css at main · 0m4r/MMM-euro2021 · GitHub",
+    "count": 3,
+    "uniques": 3
+  },
+  {
+    "path": "/0m4r/MMM-euro2021/blob/main/package.json",
+    "title": "MMM-euro2021/package.json at main · 0m4r/MMM-euro2021 · GitHub",
     "count": 2,
     "uniques": 2
   },
   {
-    "path": "/0m4r/MMM-euro2021/commit/2d3bfe2ff17afae2fd9a6bce6e9c4135ae3a589b",
-    "title": "improve layout · 0m4r/MMM-euro2021@2d3bfe2",
+    "path": "/0m4r/MMM-euro2021/commit/2ce3e30af04fefe1b7e6a5592c067f884d975ef0",
+    "title": "add secret.js.EXAMPLE · 0m4r/MMM-euro2021@2ce3e30 · GitHub",
     "count": 2,
-    "uniques": 1
+    "uniques": 2
   },
   {
-    "path": "/0m4r/MMM-euro2021/commit/a6e005a80c2f8f09c9b833f848881610212c0975",
-    "title": "fix colspoan number for date rows · 0m4r/MMM-euro2021@a6e005a",
+    "path": "/0m4r/MMM-euro2021/commit/e58415c5066dd30c40c78a16b3f9403cb1c0f861",
+    "title": "add github actions · 0m4r/MMM-euro2021@e58415c · GitHub",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/0m4r/MMM-euro2021/blob/main/package.json",
-    "title": "MMM-euro2021/package.json at main · 0m4r/MMM-euro2021",
-    "count": 1,
-    "uniques": 1
+    "uniques": 2
   }
 ]
