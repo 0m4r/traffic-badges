@@ -2,8 +2,8 @@
   {
     "path": "/0m4r/MMM-covid19",
     "title": "GitHub - 0m4r/MMM-covid19: Magic Mirror Module to display stats on Covid19",
-    "count": 80,
-    "uniques": 49
+    "count": 72,
+    "uniques": 46
   },
   {
     "path": "/0m4r/MMM-covid19/issues",
@@ -26,24 +26,6 @@
   {
     "path": "/0m4r/MMM-covid19/blob/39c2c266c23dd1d41a254c03ff908143549e50fe/package.json",
     "title": "MMM-covid19/package.json at 39c2c266c23dd1d41a254c03ff908143549e50fe · 0m4r/M...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/0m4r/MMM-covid19/blob/main/.github/workflows/github-traffic-action_cron-trigger.yml",
-    "title": "MMM-covid19/github-traffic-action_cron-trigger.yml at main · 0m4r/MMM-covid19...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/0m4r/MMM-covid19/commits",
-    "title": "Commits · 0m4r/MMM-covid19 · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/0m4r/MMM-covid19/tree/main/.github/workflows",
-    "title": "MMM-covid19/.github/workflows at main · 0m4r/MMM-covid19 · GitHub",
     "count": 1,
     "uniques": 1
   }

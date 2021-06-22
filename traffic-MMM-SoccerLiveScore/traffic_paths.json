@@ -2,14 +2,8 @@
   {
     "path": "/0m4r/MMM-SoccerLiveScore",
     "title": "GitHub - 0m4r/MMM-SoccerLiveScore: Displays Soccer-Live-Scores on MagicMirror",
-    "count": 95,
-    "uniques": 52
-  },
-  {
-    "path": "/0m4r/MMM-SoccerLiveScore/tree/feat/match-details",
-    "title": "GitHub - 0m4r/MMM-SoccerLiveScore at feat/match-details",
-    "count": 15,
-    "uniques": 10
+    "count": 94,
+    "uniques": 51
   },
   {
     "path": "/0m4r/MMM-SoccerLiveScore/tree/75fe04795d428f30e6771e16c66151be77978269",
@@ -18,10 +12,16 @@
     "uniques": 4
   },
   {
+    "path": "/0m4r/MMM-SoccerLiveScore/tree/feat/match-details",
+    "title": "GitHub - 0m4r/MMM-SoccerLiveScore at feat/match-details",
+    "count": 13,
+    "uniques": 8
+  },
+  {
     "path": "/0m4r/MMM-SoccerLiveScore/issues",
     "title": "Issues · 0m4r/MMM-SoccerLiveScore · GitHub",
-    "count": 9,
-    "uniques": 6
+    "count": 8,
+    "uniques": 5
   },
   {
     "path": "/0m4r/MMM-SoccerLiveScore/pulls",
