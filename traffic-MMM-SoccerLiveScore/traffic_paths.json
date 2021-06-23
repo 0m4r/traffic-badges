@@ -2,26 +2,26 @@
   {
     "path": "/0m4r/MMM-SoccerLiveScore",
     "title": "GitHub - 0m4r/MMM-SoccerLiveScore: Displays Soccer-Live-Scores on MagicMirror",
-    "count": 94,
-    "uniques": 51
+    "count": 87,
+    "uniques": 52
   },
   {
     "path": "/0m4r/MMM-SoccerLiveScore/tree/75fe04795d428f30e6771e16c66151be77978269",
     "title": "GitHub - 0m4r/MMM-SoccerLiveScore at 75fe04795d428f30e6771e16c66151be77978269",
-    "count": 14,
-    "uniques": 4
+    "count": 11,
+    "uniques": 2
   },
   {
     "path": "/0m4r/MMM-SoccerLiveScore/tree/feat/match-details",
     "title": "GitHub - 0m4r/MMM-SoccerLiveScore at feat/match-details",
-    "count": 13,
-    "uniques": 8
+    "count": 9,
+    "uniques": 6
   },
   {
     "path": "/0m4r/MMM-SoccerLiveScore/issues",
     "title": "Issues · 0m4r/MMM-SoccerLiveScore · GitHub",
-    "count": 8,
-    "uniques": 5
+    "count": 5,
+    "uniques": 3
   },
   {
     "path": "/0m4r/MMM-SoccerLiveScore/pulls",
@@ -34,12 +34,6 @@
     "title": "MMM-SoccerLiveScore/.github/workflows at master · 0m4r/MMM-SoccerLiveScore · ...",
     "count": 3,
     "uniques": 1
-  },
-  {
-    "path": "/0m4r/MMM-SoccerLiveScore/issues/3",
-    "title": "a gap / no shown in between standing and tables · Issue #3 · 0m4r/MMM-SoccerL...",
-    "count": 2,
-    "uniques": 2
   },
   {
     "path": "/0m4r/MMM-SoccerLiveScore/blob/master/.eslintrc.js",
@@ -56,6 +50,12 @@
   {
     "path": "/0m4r/MMM-SoccerLiveScore/blob/master/node_helper.js",
     "title": "MMM-SoccerLiveScore/node_helper.js at master · 0m4r/MMM-SoccerLiveScore · Git...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/0m4r/MMM-SoccerLiveScore/blob/master/package.json",
+    "title": "MMM-SoccerLiveScore/package.json at master · 0m4r/MMM-SoccerLiveScore · GitHub",
     "count": 2,
     "uniques": 1
   }
