@@ -1,8 +1,8 @@
 [
   {
     "referrer": "github.com",
-    "count": 55,
-    "uniques": 38
+    "count": 51,
+    "uniques": 36
   },
   {
     "referrer": "ecosia.org",
@@ -13,5 +13,10 @@
     "referrer": "Bing",
     "count": 2,
     "uniques": 2
+  },
+  {
+    "referrer": "m.baidu.com",
+    "count": 1,
+    "uniques": 1
   }
 ]
