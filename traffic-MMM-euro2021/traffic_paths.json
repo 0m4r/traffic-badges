@@ -2,54 +2,36 @@
   {
     "path": "/0m4r/MMM-euro2021",
     "title": "GitHub - 0m4r/MMM-euro2021: a Magic Mirror Module to display Euro 2020 fixtur...",
-    "count": 153,
-    "uniques": 61
+    "count": 103,
+    "uniques": 33
   },
   {
     "path": "/0m4r/MMM-euro2021/blob/main/secret.js.EXAMPLE",
     "title": "MMM-euro2021/secret.js.EXAMPLE at main · 0m4r/MMM-euro2021 · GitHub",
-    "count": 43,
-    "uniques": 20
+    "count": 34,
+    "uniques": 15
   },
   {
     "path": "/0m4r/MMM-euro2021/blob/main/README.md",
     "title": "MMM-euro2021/README.md at main · 0m4r/MMM-euro2021 · GitHub",
-    "count": 37,
-    "uniques": 14
+    "count": 30,
+    "uniques": 10
   },
   {
     "path": "/0m4r/MMM-euro2021/blob/main/MMM-euro2021.js",
     "title": "MMM-euro2021/MMM-euro2021.js at main · 0m4r/MMM-euro2021 · GitHub",
-    "count": 17,
-    "uniques": 8
-  },
-  {
-    "path": "/0m4r/MMM-euro2021/blob/main/MMM-euro2021_screenshot.png",
-    "title": "MMM-euro2021/MMM-euro2021_screenshot.png at main · 0m4r/MMM-euro2021 · GitHub",
-    "count": 9,
-    "uniques": 6
+    "count": 12,
+    "uniques": 4
   },
   {
     "path": "/0m4r/MMM-euro2021/issues",
     "title": "Issues · 0m4r/MMM-euro2021 · GitHub",
-    "count": 7,
-    "uniques": 5
-  },
-  {
-    "path": "/0m4r/MMM-euro2021/blob/main/node_helper.js",
-    "title": "MMM-euro2021/node_helper.js at main · 0m4r/MMM-euro2021 · GitHub",
-    "count": 7,
+    "count": 6,
     "uniques": 4
   },
   {
     "path": "/0m4r/MMM-euro2021/blob/main/package.json",
     "title": "MMM-euro2021/package.json at main · 0m4r/MMM-euro2021 · GitHub",
-    "count": 5,
-    "uniques": 3
-  },
-  {
-    "path": "/0m4r/MMM-euro2021/commit/cd75aba9d96a72f8c41a2f215d0f2ae99353d57e",
-    "title": "fix API call intervall check · 0m4r/MMM-euro2021@cd75aba · GitHub",
     "count": 4,
     "uniques": 2
   },
@@ -57,6 +39,24 @@
     "path": "/0m4r/MMM-euro2021/releases",
     "title": "Releases · 0m4r/MMM-euro2021 · GitHub",
     "count": 4,
+    "uniques": 1
+  },
+  {
+    "path": "/0m4r/MMM-euro2021/search",
+    "title": "Search · football-data.org · GitHub",
+    "count": 3,
+    "uniques": 2
+  },
+  {
+    "path": "/0m4r/MMM-euro2021/actions",
+    "title": "Actions · 0m4r/MMM-euro2021 · GitHub",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/0m4r/MMM-euro2021/blob/main/node_helper.js",
+    "title": "MMM-euro2021/node_helper.js at main · 0m4r/MMM-euro2021 · GitHub",
+    "count": 3,
     "uniques": 1
   }
 ]
