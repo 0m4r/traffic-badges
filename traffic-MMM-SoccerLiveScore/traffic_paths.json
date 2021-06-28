@@ -2,24 +2,42 @@
   {
     "path": "/0m4r/MMM-SoccerLiveScore",
     "title": "GitHub - 0m4r/MMM-SoccerLiveScore: Displays Soccer-Live-Scores on MagicMirror",
-    "count": 60,
-    "uniques": 40
+    "count": 64,
+    "uniques": 44
   },
   {
     "path": "/0m4r/MMM-SoccerLiveScore/issues",
     "title": "Issues · 0m4r/MMM-SoccerLiveScore · GitHub",
-    "count": 5,
-    "uniques": 3
+    "count": 4,
+    "uniques": 2
+  },
+  {
+    "path": "/0m4r/MMM-SoccerLiveScore/issues/3",
+    "title": "a gap / no shown in between standing and tables · Issue #3 · 0m4r/MMM-SoccerL...",
+    "count": 4,
+    "uniques": 2
   },
   {
     "path": "/0m4r/MMM-SoccerLiveScore/tree/feat/match-details",
     "title": "GitHub - 0m4r/MMM-SoccerLiveScore at feat/match-details",
-    "count": 4,
+    "count": 2,
     "uniques": 2
   },
   {
     "path": "/0m4r/MMM-SoccerLiveScore/blob/master/MMM-SoccerLiveScore.css",
     "title": "MMM-SoccerLiveScore/MMM-SoccerLiveScore.css at master · 0m4r/MMM-SoccerLiveSc...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/0m4r/MMM-SoccerLiveScore/blob/master/README.md",
+    "title": "MMM-SoccerLiveScore/README.md at master · 0m4r/MMM-SoccerLiveScore · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/0m4r/MMM-SoccerLiveScore/blob/master/screenhosts/MMM-SoccerLiveScores-Tables.png",
+    "title": "MMM-SoccerLiveScore/MMM-SoccerLiveScores-Tables.png at master · 0m4r/MMM-Socc...",
     "count": 1,
     "uniques": 1
   },
@@ -30,14 +48,14 @@
     "uniques": 1
   },
   {
-    "path": "/0m4r/MMM-SoccerLiveScore/issues/3",
-    "title": "a gap / no shown in between standing and tables · Issue #3 · 0m4r/MMM-SoccerL...",
+    "path": "/0m4r/MMM-SoccerLiveScore/pulls",
+    "title": "Pull requests · 0m4r/MMM-SoccerLiveScore · GitHub",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/0m4r/MMM-SoccerLiveScore/pulls",
-    "title": "Pull requests · 0m4r/MMM-SoccerLiveScore · GitHub",
+    "path": "/0m4r/MMM-SoccerLiveScore/tree/cc17c9deb5de423cd7d2fa823ac91b6d37b349ac",
+    "title": "0m4r/MMM-SoccerLiveScore at cc17c9deb5de423cd7d2fa823ac91b6d37b349ac",
     "count": 1,
     "uniques": 1
   }
