@@ -3,23 +3,35 @@
     "path": "/0m4r/MMM-SoccerLiveScore",
     "title": "GitHub - 0m4r/MMM-SoccerLiveScore: Displays Soccer-Live-Scores on MagicMirror",
     "count": 64,
-    "uniques": 44
+    "uniques": 43
   },
   {
     "path": "/0m4r/MMM-SoccerLiveScore/issues",
     "title": "Issues · 0m4r/MMM-SoccerLiveScore · GitHub",
-    "count": 4,
-    "uniques": 2
+    "count": 6,
+    "uniques": 3
   },
   {
     "path": "/0m4r/MMM-SoccerLiveScore/issues/3",
     "title": "a gap / no shown in between standing and tables · Issue #3 · 0m4r/MMM-SoccerL...",
-    "count": 4,
+    "count": 5,
+    "uniques": 3
+  },
+  {
+    "path": "/0m4r/MMM-SoccerLiveScore/blob/master/README.md",
+    "title": "MMM-SoccerLiveScore/README.md at master · 0m4r/MMM-SoccerLiveScore · GitHub",
+    "count": 3,
     "uniques": 2
   },
   {
-    "path": "/0m4r/MMM-SoccerLiveScore/tree/feat/match-details",
-    "title": "GitHub - 0m4r/MMM-SoccerLiveScore at feat/match-details",
+    "path": "/0m4r/MMM-SoccerLiveScore/blob/master/screenhosts/MMM-SoccerLiveScores-Tables.png",
+    "title": "MMM-SoccerLiveScore/MMM-SoccerLiveScores-Tables.png at master · 0m4r/MMM-Socc...",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/0m4r/MMM-SoccerLiveScore/tree/master/screenhosts",
+    "title": "MMM-SoccerLiveScore/screenhosts at master · 0m4r/MMM-SoccerLiveScore · GitHub",
     "count": 2,
     "uniques": 2
   },
@@ -30,14 +42,8 @@
     "uniques": 1
   },
   {
-    "path": "/0m4r/MMM-SoccerLiveScore/blob/master/README.md",
-    "title": "MMM-SoccerLiveScore/README.md at master · 0m4r/MMM-SoccerLiveScore · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/0m4r/MMM-SoccerLiveScore/blob/master/screenhosts/MMM-SoccerLiveScores-Tables.png",
-    "title": "MMM-SoccerLiveScore/MMM-SoccerLiveScores-Tables.png at master · 0m4r/MMM-Socc...",
+    "path": "/0m4r/MMM-SoccerLiveScore/blob/master/screenhosts/MMM-SoccerLiveScores-Standings.png",
+    "title": "MMM-SoccerLiveScore/MMM-SoccerLiveScores-Standings.png at master · 0m4r/MMM-S...",
     "count": 1,
     "uniques": 1
   },
@@ -50,12 +56,6 @@
   {
     "path": "/0m4r/MMM-SoccerLiveScore/pulls",
     "title": "Pull requests · 0m4r/MMM-SoccerLiveScore · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/0m4r/MMM-SoccerLiveScore/tree/cc17c9deb5de423cd7d2fa823ac91b6d37b349ac",
-    "title": "0m4r/MMM-SoccerLiveScore at cc17c9deb5de423cd7d2fa823ac91b6d37b349ac",
     "count": 1,
     "uniques": 1
   }
