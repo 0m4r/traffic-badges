@@ -2,26 +2,20 @@
   {
     "path": "/0m4r/MMM-euro2021",
     "title": "GitHub - 0m4r/MMM-euro2021: a Magic Mirror Module to display Euro 2020 fixtur...",
-    "count": 55,
-    "uniques": 21
+    "count": 45,
+    "uniques": 19
   },
   {
     "path": "/0m4r/MMM-euro2021/blob/main/README.md",
     "title": "MMM-euro2021/README.md at main · 0m4r/MMM-euro2021 · GitHub",
-    "count": 20,
+    "count": 18,
     "uniques": 6
   },
   {
     "path": "/0m4r/MMM-euro2021/blob/main/secret.js.EXAMPLE",
     "title": "MMM-euro2021/secret.js.EXAMPLE at main · 0m4r/MMM-euro2021 · GitHub",
-    "count": 15,
-    "uniques": 7
-  },
-  {
-    "path": "/0m4r/MMM-euro2021/blob/main/MMM-euro2021.js",
-    "title": "MMM-euro2021/MMM-euro2021.js at main · 0m4r/MMM-euro2021 · GitHub",
-    "count": 5,
-    "uniques": 3
+    "count": 12,
+    "uniques": 6
   },
   {
     "path": "/0m4r/MMM-euro2021/issues",
@@ -30,22 +24,22 @@
     "uniques": 3
   },
   {
+    "path": "/0m4r/MMM-euro2021/actions",
+    "title": "Actions · 0m4r/MMM-euro2021 · GitHub",
+    "count": 4,
+    "uniques": 2
+  },
+  {
+    "path": "/0m4r/MMM-euro2021/blob/main/MMM-euro2021.js",
+    "title": "MMM-euro2021/MMM-euro2021.js at main · 0m4r/MMM-euro2021 · GitHub",
+    "count": 3,
+    "uniques": 2
+  },
+  {
     "path": "/0m4r/MMM-euro2021/blob/main/package.json",
     "title": "MMM-euro2021/package.json at main · 0m4r/MMM-euro2021 · GitHub",
     "count": 3,
     "uniques": 2
-  },
-  {
-    "path": "/0m4r/MMM-euro2021/search",
-    "title": "Search · football-data.org · GitHub",
-    "count": 3,
-    "uniques": 2
-  },
-  {
-    "path": "/0m4r/MMM-euro2021/actions",
-    "title": "Actions · 0m4r/MMM-euro2021 · GitHub",
-    "count": 3,
-    "uniques": 1
   },
   {
     "path": "/0m4r/MMM-euro2021/blob/main/node_helper.js",
@@ -56,6 +50,12 @@
   {
     "path": "/0m4r/MMM-euro2021/network/members",
     "title": "Forks · 0m4r/MMM-euro2021 · GitHub",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/0m4r/MMM-euro2021/search",
+    "title": "Search · football-data.org · GitHub",
     "count": 2,
     "uniques": 1
   }
