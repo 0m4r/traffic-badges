@@ -2,8 +2,8 @@
   {
     "path": "/0m4r/MMM-SoccerLiveScore",
     "title": "GitHub - 0m4r/MMM-SoccerLiveScore: Displays Soccer-Live-Scores on MagicMirror",
-    "count": 62,
-    "uniques": 41
+    "count": 60,
+    "uniques": 39
   },
   {
     "path": "/0m4r/MMM-SoccerLiveScore/issues",
@@ -30,6 +30,12 @@
     "uniques": 2
   },
   {
+    "path": "/0m4r/MMM-SoccerLiveScore/tree/feat/match-details",
+    "title": "GitHub - 0m4r/MMM-SoccerLiveScore at feat/match-details",
+    "count": 2,
+    "uniques": 2
+  },
+  {
     "path": "/0m4r/MMM-SoccerLiveScore/tree/master/screenhosts",
     "title": "MMM-SoccerLiveScore/screenhosts at master · 0m4r/MMM-SoccerLiveScore · GitHub",
     "count": 2,
@@ -50,12 +56,6 @@
   {
     "path": "/0m4r/MMM-SoccerLiveScore/issues/1",
     "title": "Feature Request: Only show games of focused team · Issue #1 · 0m4r/MMM-Soccer...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/0m4r/MMM-SoccerLiveScore/pulls",
-    "title": "Pull requests · 0m4r/MMM-SoccerLiveScore · GitHub",
     "count": 1,
     "uniques": 1
   }
