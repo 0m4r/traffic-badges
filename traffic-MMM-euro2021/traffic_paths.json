@@ -2,8 +2,8 @@
   {
     "path": "/0m4r/MMM-euro2021",
     "title": "GitHub - 0m4r/MMM-euro2021: a Magic Mirror Module to display Euro 2020 fixtur...",
-    "count": 37,
-    "uniques": 18
+    "count": 24,
+    "uniques": 14
   },
   {
     "path": "/0m4r/MMM-euro2021/blob/main/README.md",
@@ -12,20 +12,14 @@
     "uniques": 5
   },
   {
-    "path": "/0m4r/MMM-euro2021/blob/main/secret.js.EXAMPLE",
-    "title": "MMM-euro2021/secret.js.EXAMPLE at main · 0m4r/MMM-euro2021 · GitHub",
-    "count": 6,
-    "uniques": 4
+    "path": "/0m4r/MMM-euro2021/actions",
+    "title": "Actions · 0m4r/MMM-euro2021 · GitHub",
+    "count": 4,
+    "uniques": 2
   },
   {
     "path": "/0m4r/MMM-euro2021/issues",
     "title": "Issues · 0m4r/MMM-euro2021 · GitHub",
-    "count": 5,
-    "uniques": 3
-  },
-  {
-    "path": "/0m4r/MMM-euro2021/actions",
-    "title": "Actions · 0m4r/MMM-euro2021 · GitHub",
     "count": 4,
     "uniques": 2
   },
@@ -42,20 +36,26 @@
     "uniques": 1
   },
   {
-    "path": "/0m4r/MMM-euro2021/search",
-    "title": "Search · football-data.org · GitHub",
-    "count": 2,
-    "uniques": 1
-  },
-  {
     "path": "/0m4r/MMM-euro2021/actions/runs/955407102",
     "title": "0.2.2 · 0m4r/MMM-euro2021@3708225 · GitHub",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/0m4r/MMM-euro2021/blob/main/.github/workflows/github-traffic-action_cron-trigger.yml",
-    "title": "MMM-euro2021/github-traffic-action_cron-trigger.yml at main · 0m4r/MMM-euro20...",
+    "path": "/0m4r/MMM-euro2021/blob/main/MMM-euro2021.js",
+    "title": "MMM-euro2021/MMM-euro2021.js at main · 0m4r/MMM-euro2021 · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/0m4r/MMM-euro2021/blob/main/secret.js.EXAMPLE",
+    "title": "MMM-euro2021/secret.js.EXAMPLE at main · 0m4r/MMM-euro2021",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/0m4r/MMM-euro2021/commits/main/node_helper.js",
+    "title": "History for node_helper.js - 0m4r/MMM-euro2021 · GitHub",
     "count": 1,
     "uniques": 1
   }
