@@ -2,42 +2,18 @@
   {
     "path": "/0m4r/MMM-euro2021",
     "title": "GitHub - 0m4r/MMM-euro2021: a Magic Mirror Module to display Euro 2020 fixtur...",
-    "count": 23,
-    "uniques": 14
+    "count": 18,
+    "uniques": 12
   },
   {
     "path": "/0m4r/MMM-euro2021/blob/main/README.md",
     "title": "MMM-euro2021/README.md at main · 0m4r/MMM-euro2021 · GitHub",
-    "count": 7,
-    "uniques": 5
+    "count": 6,
+    "uniques": 4
   },
   {
     "path": "/0m4r/MMM-euro2021/actions",
     "title": "Actions · 0m4r/MMM-euro2021 · GitHub",
-    "count": 4,
-    "uniques": 2
-  },
-  {
-    "path": "/0m4r/MMM-euro2021/issues",
-    "title": "Issues · 0m4r/MMM-euro2021 · GitHub",
-    "count": 4,
-    "uniques": 2
-  },
-  {
-    "path": "/0m4r/MMM-euro2021/blob/main/package.json",
-    "title": "MMM-euro2021/package.json at main · 0m4r/MMM-euro2021 · GitHub",
-    "count": 3,
-    "uniques": 2
-  },
-  {
-    "path": "/0m4r/MMM-euro2021/blob/main/node_helper.js",
-    "title": "MMM-euro2021/node_helper.js at main · 0m4r/MMM-euro2021 · GitHub",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/0m4r/MMM-euro2021/actions/runs/955407102",
-    "title": "0.2.2 · 0m4r/MMM-euro2021@3708225 · GitHub",
     "count": 1,
     "uniques": 1
   },
@@ -54,8 +30,20 @@
     "uniques": 1
   },
   {
-    "path": "/0m4r/MMM-euro2021/commits/main/node_helper.js",
-    "title": "History for node_helper.js - 0m4r/MMM-euro2021 · GitHub",
+    "path": "/0m4r/MMM-euro2021/issues",
+    "title": "Issues · 0m4r/MMM-euro2021 · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/0m4r/MMM-euro2021/projects",
+    "title": "Projects · 0m4r/MMM-euro2021 · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/0m4r/MMM-euro2021/pulls",
+    "title": "Pull requests · 0m4r/MMM-euro2021 · GitHub",
     "count": 1,
     "uniques": 1
   }
