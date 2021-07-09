@@ -2,7 +2,7 @@
   {
     "path": "/0m4r/MMM-covid19",
     "title": "GitHub - 0m4r/MMM-covid19: Magic Mirror Module to display stats on Covid19",
-    "count": 46,
+    "count": 51,
     "uniques": 34
   },
   {
@@ -20,6 +20,12 @@
   {
     "path": "/0m4r/MMM-covid19/issues",
     "title": "Issues · 0m4r/MMM-covid19 · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/apis/site/proxy",
+    "title": "GitHub - 0m4r/MMM-covid19: Magic Mirror Module to display stats on Covid19",
     "count": 1,
     "uniques": 1
   }
