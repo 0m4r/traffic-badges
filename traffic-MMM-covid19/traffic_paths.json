@@ -2,12 +2,42 @@
   {
     "path": "/0m4r/MMM-covid19",
     "title": "GitHub - 0m4r/MMM-covid19: Magic Mirror Module to display stats on Covid19",
-    "count": 51,
-    "uniques": 34
+    "count": 62,
+    "uniques": 37
   },
   {
     "path": "/0m4r/MMM-covid19/blob/main/README.md",
-    "title": "MMM-covid19/README.md at main · 0m4r/MMM-covid19",
+    "title": "MMM-covid19/README.md at main · 0m4r/MMM-covid19 · GitHub",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/0m4r/MMM-covid19/issues",
+    "title": "Issues · 0m4r/MMM-covid19 · GitHub",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/0m4r/MMM-covid19/blob/main/css/style.css",
+    "title": "MMM-covid19/style.css at main · 0m4r/MMM-covid19 · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/0m4r/MMM-covid19/blob/main/docs/MMM-covid19.png",
+    "title": "MMM-covid19/MMM-covid19.png at main · 0m4r/MMM-covid19 · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/0m4r/MMM-covid19/blob/main/.editorconfig",
+    "title": "MMM-covid19/.editorconfig at main · 0m4r/MMM-covid19 · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/0m4r/MMM-covid19/blob/main/MMM-covid19.js",
+    "title": "MMM-covid19/MMM-covid19.js at main · 0m4r/MMM-covid19 · GitHub",
     "count": 1,
     "uniques": 1
   },
@@ -18,14 +48,14 @@
     "uniques": 1
   },
   {
-    "path": "/0m4r/MMM-covid19/issues",
-    "title": "Issues · 0m4r/MMM-covid19 · GitHub",
+    "path": "/0m4r/MMM-covid19/tree/main/css",
+    "title": "MMM-covid19/css at main · 0m4r/MMM-covid19 · GitHub",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/apis/site/proxy",
-    "title": "GitHub - 0m4r/MMM-covid19: Magic Mirror Module to display stats on Covid19",
+    "path": "/0m4r/MMM-covid19/tree/main/docs",
+    "title": "MMM-covid19/docs at main · 0m4r/MMM-covid19 · GitHub",
     "count": 1,
     "uniques": 1
   }
