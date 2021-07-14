@@ -2,8 +2,14 @@
   {
     "path": "/0m4r/MMM-covid19",
     "title": "GitHub - 0m4r/MMM-covid19: Magic Mirror Module to display stats on Covid19",
-    "count": 66,
-    "uniques": 36
+    "count": 91,
+    "uniques": 40
+  },
+  {
+    "path": "/0m4r/MMM-covid19/issues",
+    "title": "Issues · 0m4r/MMM-covid19 · GitHub",
+    "count": 9,
+    "uniques": 2
   },
   {
     "path": "/0m4r/MMM-covid19/blob/main/README.md",
@@ -12,50 +18,44 @@
     "uniques": 3
   },
   {
+    "path": "/0m4r/MMM-covid19/pulls",
+    "title": "Pull requests · 0m4r/MMM-covid19",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/0m4r/MMM-covid19/actions",
+    "title": "Actions · 0m4r/MMM-covid19 · GitHub",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/0m4r/MMM-covid19/tree/main/.github/workflows",
+    "title": "MMM-covid19/.github/workflows at main · 0m4r/MMM-covid19 · GitHub",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/0m4r/MMM-covid19/branches",
+    "title": "Branches · 0m4r/MMM-covid19 · GitHub",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/0m4r/MMM-covid19/issues/7",
+    "title": "County's don't work · Issue #7 · 0m4r/MMM-covid19",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/0m4r/MMM-covid19/issues/8",
+    "title": "module doesn't show country's information · Issue #8 · 0m4r/MMM-covid19",
+    "count": 2,
+    "uniques": 1
+  },
+  {
     "path": "/0m4r/MMM-covid19/blob/main/css/style.css",
     "title": "MMM-covid19/style.css at main · 0m4r/MMM-covid19 · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/0m4r/MMM-covid19/blob/main/docs/MMM-covid19.png",
-    "title": "MMM-covid19/MMM-covid19.png at main · 0m4r/MMM-covid19 · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/0m4r/MMM-covid19/blob/main/.editorconfig",
-    "title": "MMM-covid19/.editorconfig at main · 0m4r/MMM-covid19 · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/0m4r/MMM-covid19/blob/main/MMM-covid19.js",
-    "title": "MMM-covid19/MMM-covid19.js at main · 0m4r/MMM-covid19 · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/0m4r/MMM-covid19/blob/main/node_helper.js",
-    "title": "MMM-covid19/node_helper.js at main · 0m4r/MMM-covid19 · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/0m4r/MMM-covid19/commit/037effbd78094dc95953001051f4510c94aea37b",
-    "title": "Update README.md · 0m4r/MMM-covid19@037effb · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/0m4r/MMM-covid19/commits/main",
-    "title": "Commits · 0m4r/MMM-covid19 · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/0m4r/MMM-covid19/issues",
-    "title": "Issues · 0m4r/MMM-covid19 · GitHub",
     "count": 1,
     "uniques": 1
   }
