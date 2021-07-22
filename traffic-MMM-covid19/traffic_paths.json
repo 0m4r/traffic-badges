@@ -2,20 +2,20 @@
   {
     "path": "/0m4r/MMM-covid19",
     "title": "GitHub - 0m4r/MMM-covid19: Magic Mirror Module to display stats on Covid19",
-    "count": 98,
-    "uniques": 47
+    "count": 91,
+    "uniques": 48
   },
   {
     "path": "/0m4r/MMM-covid19/issues",
-    "title": "Issues · 0m4r/MMM-covid19 · GitHub",
-    "count": 9,
-    "uniques": 2
+    "title": "Issues · 0m4r/MMM-covid19",
+    "count": 8,
+    "uniques": 1
   },
   {
     "path": "/0m4r/MMM-covid19/blob/main/README.md",
     "title": "MMM-covid19/README.md at main · 0m4r/MMM-covid19 · GitHub",
-    "count": 4,
-    "uniques": 4
+    "count": 3,
+    "uniques": 3
   },
   {
     "path": "/0m4r/MMM-covid19/pulls",
@@ -30,33 +30,33 @@
     "uniques": 2
   },
   {
-    "path": "/0m4r/MMM-covid19/blob/main/css/style.css",
-    "title": "MMM-covid19/style.css at main · 0m4r/MMM-covid19 · GitHub",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/0m4r/MMM-covid19/blob/main/MMM-covid19.js",
-    "title": "MMM-covid19/MMM-covid19.js at main · 0m4r/MMM-covid19 · GitHub",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/0m4r/MMM-covid19/tree/main/css",
-    "title": "MMM-covid19/css at main · 0m4r/MMM-covid19 · GitHub",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/0m4r/MMM-covid19/tree/main/.github/workflows",
-    "title": "MMM-covid19/.github/workflows at main · 0m4r/MMM-covid19 · GitHub",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "path": "/0m4r/MMM-covid19/branches",
     "title": "Branches · 0m4r/MMM-covid19 · GitHub",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/0m4r/MMM-covid19/issues/7",
+    "title": "County's don't work · Issue #7 · 0m4r/MMM-covid19",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/0m4r/MMM-covid19/issues/8",
+    "title": "module doesn't show country's information · Issue #8 · 0m4r/MMM-covid19",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/0m4r/MMM-covid19/blob/a8e71a46982e8a0dd119f9cc813a4e15ec68f121/node_helper.js",
+    "title": "MMM-covid19/node_helper.js at a8e71a46982e8a0dd119f9cc813a4e15ec68f121 · 0m4r...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/0m4r/MMM-covid19/blob/main/css/style.css",
+    "title": "MMM-covid19/style.css at main · 0m4r/MMM-covid19 · GitHub",
+    "count": 1,
     "uniques": 1
   }
 ]
