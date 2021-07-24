@@ -1,7 +1,12 @@
 [
   {
     "referrer": "github.com",
-    "count": 85,
-    "uniques": 49
+    "count": 86,
+    "uniques": 48
+  },
+  {
+    "referrer": "nils-snake.de",
+    "count": 1,
+    "uniques": 1
   }
 ]
