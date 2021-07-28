@@ -2,8 +2,8 @@
   {
     "path": "/0m4r/MMM-covid19",
     "title": "GitHub - 0m4r/MMM-covid19: Magic Mirror Module to display stats on Covid19",
-    "count": 74,
-    "uniques": 45
+    "count": 69,
+    "uniques": 43
   },
   {
     "path": "/0m4r/MMM-covid19/issues",
@@ -24,22 +24,10 @@
     "uniques": 2
   },
   {
-    "path": "/0m4r/MMM-covid19/blob/main/README.md",
-    "title": "MMM-covid19/README.md at main · 0m4r/MMM-covid19 · GitHub",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "path": "/0m4r/MMM-covid19/tree/main/docs",
     "title": "MMM-covid19/docs at main · 0m4r/MMM-covid19 · GitHub",
     "count": 2,
     "uniques": 2
-  },
-  {
-    "path": "/0m4r/MMM-covid19/blob/a8e71a46982e8a0dd119f9cc813a4e15ec68f121/node_helper.js",
-    "title": "MMM-covid19/node_helper.js at a8e71a46982e8a0dd119f9cc813a4e15ec68f121 · 0m4r...",
-    "count": 1,
-    "uniques": 1
   },
   {
     "path": "/0m4r/MMM-covid19/blob/main/node_helper.js",
@@ -48,14 +36,26 @@
     "uniques": 1
   },
   {
-    "path": "/0m4r/MMM-covid19/blob/main/package.json",
-    "title": "MMM-covid19/package.json at main · 0m4r/MMM-covid19 · GitHub",
+    "path": "/0m4r/MMM-covid19/blob/main/README.md",
+    "title": "MMM-covid19/README.md at main · 0m4r/MMM-covid19 · GitHub",
     "count": 1,
     "uniques": 1
   },
   {
     "path": "/0m4r/MMM-covid19/commits/main",
     "title": "Commits · 0m4r/MMM-covid19 · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/0m4r/MMM-covid19/find/main",
+    "title": "File Finder",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/0m4r/MMM-covid19/issues/11",
+    "title": "How does one install this module? · Issue #11 · 0m4r/MMM-covid19 · GitHub",
     "count": 1,
     "uniques": 1
   }
