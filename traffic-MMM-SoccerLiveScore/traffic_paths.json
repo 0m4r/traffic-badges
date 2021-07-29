@@ -2,8 +2,8 @@
   {
     "path": "/0m4r/MMM-SoccerLiveScore",
     "title": "GitHub - 0m4r/MMM-SoccerLiveScore: Displays Soccer-Live-Scores on MagicMirror",
-    "count": 27,
-    "uniques": 23
+    "count": 31,
+    "uniques": 24
   },
   {
     "path": "/0m4r/MMM-SoccerLiveScore/blob/master/MMM-SoccerLiveScore.css",
@@ -26,6 +26,12 @@
   {
     "path": "/0m4r/MMM-SoccerLiveScore/blob/master/README.md",
     "title": "MMM-SoccerLiveScore/README.md at master · 0m4r/MMM-SoccerLiveScore · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/0m4r/MMM-SoccerLiveScore/find/master",
+    "title": "File Finder · GitHub",
     "count": 1,
     "uniques": 1
   }
