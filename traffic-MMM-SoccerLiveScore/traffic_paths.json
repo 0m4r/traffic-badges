@@ -2,18 +2,30 @@
   {
     "path": "/0m4r/MMM-SoccerLiveScore",
     "title": "GitHub - 0m4r/MMM-SoccerLiveScore: Displays Soccer-Live-Scores on MagicMirror",
-    "count": 32,
-    "uniques": 24
+    "count": 31,
+    "uniques": 23
   },
   {
-    "path": "/0m4r/MMM-SoccerLiveScore/blob/master/MMM-SoccerLiveScore.css",
-    "title": "MMM-SoccerLiveScore/MMM-SoccerLiveScore.css at master · 0m4r/MMM-SoccerLiveSc...",
-    "count": 1,
+    "path": "/0m4r/MMM-SoccerLiveScore/blob/master/screenhosts/MMM-SoccerLiveScores-Scorers.png",
+    "title": "MMM-SoccerLiveScore/MMM-SoccerLiveScores-Scorers.png at master · 0m4r/MMM-Soc...",
+    "count": 2,
     "uniques": 1
   },
   {
-    "path": "/0m4r/MMM-SoccerLiveScore/blob/master/MMM-SoccerLiveScore.js",
-    "title": "MMM-SoccerLiveScore/MMM-SoccerLiveScore.js at master · 0m4r/MMM-SoccerLiveSco...",
+    "path": "/0m4r/MMM-SoccerLiveScore/blob/master/screenhosts/MMM-SoccerLiveScores-Standings%2BDetails.png",
+    "title": "MMM-SoccerLiveScore/MMM-SoccerLiveScores-Standings+Details.png at master · 0m...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/0m4r/MMM-SoccerLiveScore/tree/master/screenhosts",
+    "title": "MMM-SoccerLiveScore/screenhosts at master · 0m4r/MMM-SoccerLiveScore · GitHub",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/0m4r/MMM-SoccerLiveScore/actions",
+    "title": "Actions · 0m4r/MMM-SoccerLiveScore · GitHub",
     "count": 1,
     "uniques": 1
   },
@@ -26,6 +38,18 @@
   {
     "path": "/0m4r/MMM-SoccerLiveScore/blob/master/README.md",
     "title": "MMM-SoccerLiveScore/README.md at master · 0m4r/MMM-SoccerLiveScore · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/0m4r/MMM-SoccerLiveScore/blob/master/screenhosts/MMM-SoccerLiveScores-Standings.png",
+    "title": "MMM-SoccerLiveScore/MMM-SoccerLiveScores-Standings.png at master · 0m4r/MMM-S...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/0m4r/MMM-SoccerLiveScore/blob/master/screenhosts/MMM-SoccerLiveScores-Tables.png",
+    "title": "MMM-SoccerLiveScore/MMM-SoccerLiveScores-Tables.png at master · 0m4r/MMM-Socc...",
     "count": 1,
     "uniques": 1
   },
