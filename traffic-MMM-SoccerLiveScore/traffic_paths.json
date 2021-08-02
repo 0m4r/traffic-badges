@@ -2,26 +2,50 @@
   {
     "path": "/0m4r/MMM-SoccerLiveScore",
     "title": "GitHub - 0m4r/MMM-SoccerLiveScore: Displays Soccer-Live-Scores on MagicMirror",
-    "count": 31,
-    "uniques": 23
+    "count": 36,
+    "uniques": 24
   },
   {
     "path": "/0m4r/MMM-SoccerLiveScore/blob/master/screenhosts/MMM-SoccerLiveScores-Scorers.png",
     "title": "MMM-SoccerLiveScore/MMM-SoccerLiveScores-Scorers.png at master · 0m4r/MMM-Soc...",
-    "count": 2,
-    "uniques": 1
+    "count": 3,
+    "uniques": 2
   },
   {
     "path": "/0m4r/MMM-SoccerLiveScore/blob/master/screenhosts/MMM-SoccerLiveScores-Standings%2BDetails.png",
     "title": "MMM-SoccerLiveScore/MMM-SoccerLiveScores-Standings+Details.png at master · 0m...",
-    "count": 2,
-    "uniques": 1
+    "count": 3,
+    "uniques": 2
+  },
+  {
+    "path": "/0m4r/MMM-SoccerLiveScore/issues",
+    "title": "Issues · 0m4r/MMM-SoccerLiveScore · GitHub",
+    "count": 3,
+    "uniques": 2
   },
   {
     "path": "/0m4r/MMM-SoccerLiveScore/tree/master/screenhosts",
     "title": "MMM-SoccerLiveScore/screenhosts at master · 0m4r/MMM-SoccerLiveScore · GitHub",
+    "count": 3,
+    "uniques": 2
+  },
+  {
+    "path": "/0m4r/MMM-SoccerLiveScore/blob/master/screenhosts/MMM-SoccerLiveScores-Tables.png",
+    "title": "MMM-SoccerLiveScore/MMM-SoccerLiveScores-Tables.png at master · 0m4r/MMM-Socc...",
     "count": 2,
-    "uniques": 1
+    "uniques": 2
+  },
+  {
+    "path": "/0m4r/MMM-SoccerLiveScore/issues/1",
+    "title": "Feature Request: Only show games of focused team · Issue #1 · 0m4r/MMM-Soccer...",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/0m4r/MMM-SoccerLiveScore/pulls",
+    "title": "Pull requests · 0m4r/MMM-SoccerLiveScore · GitHub",
+    "count": 2,
+    "uniques": 2
   },
   {
     "path": "/0m4r/MMM-SoccerLiveScore/actions",
@@ -32,30 +56,6 @@
   {
     "path": "/0m4r/MMM-SoccerLiveScore/blob/master/node_helper.js",
     "title": "MMM-SoccerLiveScore/node_helper.js at master · 0m4r/MMM-SoccerLiveScore · Git...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/0m4r/MMM-SoccerLiveScore/blob/master/README.md",
-    "title": "MMM-SoccerLiveScore/README.md at master · 0m4r/MMM-SoccerLiveScore · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/0m4r/MMM-SoccerLiveScore/blob/master/screenhosts/MMM-SoccerLiveScores-Standings.png",
-    "title": "MMM-SoccerLiveScore/MMM-SoccerLiveScores-Standings.png at master · 0m4r/MMM-S...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/0m4r/MMM-SoccerLiveScore/blob/master/screenhosts/MMM-SoccerLiveScores-Tables.png",
-    "title": "MMM-SoccerLiveScore/MMM-SoccerLiveScores-Tables.png at master · 0m4r/MMM-Socc...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/0m4r/MMM-SoccerLiveScore/find/master",
-    "title": "File Finder · GitHub",
     "count": 1,
     "uniques": 1
   }
