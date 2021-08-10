@@ -2,14 +2,14 @@
   {
     "path": "/0m4r/MMM-covid19",
     "title": "GitHub - 0m4r/MMM-covid19: Magic Mirror Module to display stats on Covid19",
-    "count": 103,
-    "uniques": 54
+    "count": 124,
+    "uniques": 63
   },
   {
     "path": "/0m4r/MMM-covid19/issues",
-    "title": "Issues · 0m4r/MMM-covid19 · GitHub",
-    "count": 12,
-    "uniques": 4
+    "title": "Issues · 0m4r/MMM-covid19",
+    "count": 10,
+    "uniques": 3
   },
   {
     "path": "/0m4r/MMM-covid19/blob/main/MMM-covid19.js",
@@ -19,9 +19,9 @@
   },
   {
     "path": "/0m4r/MMM-covid19/issues/8",
-    "title": "module doesn't show country's information · Issue #8 · 0m4r/MMM-covid19 · Git...",
-    "count": 6,
-    "uniques": 4
+    "title": "module doesn't show country's information · Issue #8 · 0m4r/MMM-covid19",
+    "count": 5,
+    "uniques": 3
   },
   {
     "path": "/0m4r/MMM-covid19/blob/main/node_helper.js",
@@ -54,8 +54,8 @@
     "uniques": 2
   },
   {
-    "path": "/0m4r/MMM-covid19/issues/7",
-    "title": "County's don't work · Issue #7 · 0m4r/MMM-covid19 · GitHub",
+    "path": "/0m4r/MMM-covid19/releases",
+    "title": "Releases · 0m4r/MMM-covid19 · GitHub",
     "count": 2,
     "uniques": 2
   }
