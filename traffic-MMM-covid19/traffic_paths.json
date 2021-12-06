@@ -1,32 +1,38 @@
 [
   {
     "path": "/0m4r/MMM-covid19",
-    "title": "GitHub - 0m4r/MMM-covid19: Magic Mirror Module to display stats on Covid19",
-    "count": 63,
-    "uniques": 44
+    "title": "GitHub - 0m4r/MMM-covid19: Magic Mirror Module to display stats on Covid19 - ...",
+    "count": 98,
+    "uniques": 64
   },
   {
-    "path": "/0m4r/MMM-covid19/commit/7ffa5895e5b232bd3169c68391918a28059d2301",
-    "title": "update README.md · 0m4r/MMM-covid19@7ffa589 · GitHub",
-    "count": 2,
+    "path": "/0m4r/MMM-covid19/issues",
+    "title": "Issues · 0m4r/MMM-covid19 · GitHub",
+    "count": 12,
+    "uniques": 5
+  },
+  {
+    "path": "/0m4r/MMM-covid19/issues/8",
+    "title": "module doesn't show country's information · Issue #8 · 0m4r/MMM-covid19 · Git...",
+    "count": 3,
+    "uniques": 3
+  },
+  {
+    "path": "/0m4r/MMM-covid19/issues/11",
+    "title": "How does one install this module? · Issue #11 · 0m4r/MMM-covid19 · GitHub",
+    "count": 3,
     "uniques": 2
   },
   {
-    "path": "/0m4r/mmm-covid19",
-    "title": "GitHub - 0m4r/MMM-covid19: Magic Mirror Module to display stats on Covid19",
-    "count": 2,
-    "uniques": 1
-  },
-  {
     "path": "/0m4r/MMM-covid19/blob/main/MMM-covid19.js",
-    "title": "MMM-covid19/MMM-covid19.js at main · 0m4r/MMM-covid19",
+    "title": "MMM-covid19/MMM-covid19.js at main · 0m4r/MMM-covid19 · GitHub",
     "count": 2,
     "uniques": 1
   },
   {
-    "path": "/0m4r/MMM-Covid19",
-    "title": "GitHub - 0m4r/MMM-covid19: Magic Mirror Module to display stats on Covid19",
-    "count": 1,
+    "path": "/0m4r/MMM-covid19/commits/main",
+    "title": "Commits · 0m4r/MMM-covid19 · GitHub",
+    "count": 2,
     "uniques": 1
   },
   {
@@ -36,26 +42,20 @@
     "uniques": 1
   },
   {
+    "path": "/0m4r/MMM-covid19/blob/main/.eslintrc.js",
+    "title": "MMM-covid19/.eslintrc.js at main · 0m4r/MMM-covid19 · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/0m4r/MMM-covid19/blob/main/.github/workflows/github-traffic-action_cron-trigger.yml",
+    "title": "MMM-covid19/github-traffic-action_cron-trigger.yml at main · 0m4r/MMM-covid19...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/0m4r/MMM-covid19/blob/main/node_helper.js",
-    "title": "MMM-covid19/node_helper.js at main · 0m4r/MMM-covid19",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/0m4r/MMM-covid19/blob/main/package-lock.json",
-    "title": "MMM-covid19/package-lock.json at main · 0m4r/MMM-covid19",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/0m4r/MMM-covid19/issues",
-    "title": "Issues · 0m4r/MMM-covid19 · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/0m4r/MMM-covid19/tree/main/docs",
-    "title": "MMM-covid19/docs at main · 0m4r/MMM-covid19",
+    "title": "MMM-covid19/node_helper.js at main · 0m4r/MMM-covid19 · GitHub",
     "count": 1,
     "uniques": 1
   }

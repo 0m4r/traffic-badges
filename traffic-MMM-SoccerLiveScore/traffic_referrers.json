@@ -1,12 +1,22 @@
 [
   {
     "referrer": "github.com",
-    "count": 37,
-    "uniques": 25
+    "count": 131,
+    "uniques": 48
+  },
+  {
+    "referrer": "Google",
+    "count": 22,
+    "uniques": 3
   },
   {
     "referrer": "Bing",
-    "count": 3,
+    "count": 2,
     "uniques": 2
+  },
+  {
+    "referrer": "web.skype.com",
+    "count": 1,
+    "uniques": 1
   }
 ]
