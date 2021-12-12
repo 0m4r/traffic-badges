@@ -2,42 +2,48 @@
   {
     "path": "/0m4r/MMM-SoccerLiveScore",
     "title": "GitHub - 0m4r/MMM-SoccerLiveScore: Displays Soccer-Live-Scores on MagicMirror",
-    "count": 114,
-    "uniques": 58
-  },
-  {
-    "path": "/0m4r/MMM-SoccerLiveScore/issues",
-    "title": "Issues · 0m4r/MMM-SoccerLiveScore · GitHub",
-    "count": 10,
-    "uniques": 6
+    "count": 100,
+    "uniques": 55
   },
   {
     "path": "/0m4r/MMM-SoccerLiveScore/tree/master/screenhosts",
     "title": "MMM-SoccerLiveScore/screenhosts at master · 0m4r/MMM-SoccerLiveScore · GitHub",
-    "count": 9,
-    "uniques": 6
-  },
-  {
-    "path": "/0m4r/MMM-SoccerLiveScore/blob/master/MMM-SoccerLiveScore.js",
-    "title": "MMM-SoccerLiveScore/MMM-SoccerLiveScore.js at master · 0m4r/MMM-SoccerLiveScore",
     "count": 7,
-    "uniques": 6
+    "uniques": 4
   },
   {
     "path": "/0m4r/MMM-SoccerLiveScore/blob/master/node_helper.js",
     "title": "MMM-SoccerLiveScore/node_helper.js at master · 0m4r/MMM-SoccerLiveScore · Git...",
-    "count": 6,
-    "uniques": 6
+    "count": 5,
+    "uniques": 5
   },
   {
-    "path": "/0m4r/MMM-SoccerLiveScore/issues/5",
-    "title": "Feature Request: Only show top 10 of a league table instead of all teams · Is...",
-    "count": 4,
+    "path": "/0m4r/MMM-SoccerLiveScore/blob/master/MMM-SoccerLiveScore.js",
+    "title": "MMM-SoccerLiveScore/MMM-SoccerLiveScore.js at master · 0m4r/MMM-SoccerLiveScore",
+    "count": 5,
     "uniques": 4
+  },
+  {
+    "path": "/0m4r/MMM-SoccerLiveScore/blob/master/package.json",
+    "title": "MMM-SoccerLiveScore/package.json at master · 0m4r/MMM-SoccerLiveScore · GitHub",
+    "count": 3,
+    "uniques": 3
+  },
+  {
+    "path": "/0m4r/MMM-SoccerLiveScore/blob/master/package-lock.json",
+    "title": "MMM-SoccerLiveScore/package-lock.json at master · 0m4r/MMM-SoccerLiveScore · ...",
+    "count": 3,
+    "uniques": 3
   },
   {
     "path": "/0m4r/MMM-SoccerLiveScore/blob/master/README.md",
     "title": "MMM-SoccerLiveScore/README.md at master · 0m4r/MMM-SoccerLiveScore · GitHub",
+    "count": 3,
+    "uniques": 3
+  },
+  {
+    "path": "/0m4r/MMM-SoccerLiveScore/issues",
+    "title": "Issues · 0m4r/MMM-SoccerLiveScore · GitHub",
     "count": 3,
     "uniques": 3
   },
@@ -48,14 +54,8 @@
     "uniques": 2
   },
   {
-    "path": "/0m4r/MMM-SoccerLiveScore/blob/master/package.json",
-    "title": "MMM-SoccerLiveScore/package.json at master · 0m4r/MMM-SoccerLiveScore · GitHub",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/0m4r/MMM-SoccerLiveScore/blob/master/package-lock.json",
-    "title": "MMM-SoccerLiveScore/package-lock.json at master · 0m4r/MMM-SoccerLiveScore · ...",
+    "path": "/0m4r/MMM-SoccerLiveScore/blob/master/.editorconfig",
+    "title": "MMM-SoccerLiveScore/.editorconfig at master · 0m4r/MMM-SoccerLiveScore · GitHub",
     "count": 2,
     "uniques": 2
   }
