@@ -2,7 +2,7 @@
   {
     "path": "/0m4r/MMM-SoccerLiveScore",
     "title": "GitHub - 0m4r/MMM-SoccerLiveScore: Displays Soccer-Live-Scores on MagicMirror",
-    "count": 95,
+    "count": 93,
     "uniques": 53
   },
   {
@@ -30,12 +30,6 @@
     "uniques": 3
   },
   {
-    "path": "/0m4r/MMM-SoccerLiveScore/issues",
-    "title": "Issues · 0m4r/MMM-SoccerLiveScore · GitHub",
-    "count": 3,
-    "uniques": 3
-  },
-  {
     "path": "/0m4r/MMM-SoccerLiveScore/blob/master/screenhosts/MMM-SoccerLiveScores-Standings.png",
     "title": "MMM-SoccerLiveScore/MMM-SoccerLiveScores-Standings.png at master · 0m4r/MMM-S...",
     "count": 3,
@@ -56,6 +50,12 @@
   {
     "path": "/0m4r/MMM-SoccerLiveScore/blob/master/package-lock.json",
     "title": "MMM-SoccerLiveScore/package-lock.json at master · 0m4r/MMM-SoccerLiveScore · ...",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/0m4r/MMM-SoccerLiveScore/blob/master/.prettierrc.js",
+    "title": "MMM-SoccerLiveScore/.prettierrc.js at master · 0m4r/MMM-SoccerLiveScore · Git...",
     "count": 2,
     "uniques": 2
   }
