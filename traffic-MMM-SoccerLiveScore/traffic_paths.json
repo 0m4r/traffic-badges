@@ -2,20 +2,20 @@
   {
     "path": "/0m4r/MMM-SoccerLiveScore",
     "title": "GitHub - 0m4r/MMM-SoccerLiveScore: Displays Soccer-Live-Scores on MagicMirror",
-    "count": 93,
-    "uniques": 53
+    "count": 92,
+    "uniques": 54
+  },
+  {
+    "path": "/0m4r/MMM-SoccerLiveScore/tree/feature/node-fetch",
+    "title": "GitHub - 0m4r/MMM-SoccerLiveScore at feature/node-fetch",
+    "count": 5,
+    "uniques": 4
   },
   {
     "path": "/0m4r/MMM-SoccerLiveScore/tree/master/screenhosts",
     "title": "MMM-SoccerLiveScore/screenhosts at master · 0m4r/MMM-SoccerLiveScore · GitHub",
-    "count": 7,
-    "uniques": 4
-  },
-  {
-    "path": "/0m4r/MMM-SoccerLiveScore/blob/master/node_helper.js",
-    "title": "MMM-SoccerLiveScore/node_helper.js at master · 0m4r/MMM-SoccerLiveScore · Git...",
-    "count": 4,
-    "uniques": 4
+    "count": 5,
+    "uniques": 2
   },
   {
     "path": "/0m4r/MMM-SoccerLiveScore/blob/master/MMM-SoccerLiveScore.js",
@@ -24,16 +24,10 @@
     "uniques": 3
   },
   {
-    "path": "/0m4r/MMM-SoccerLiveScore/blob/master/README.md",
-    "title": "MMM-SoccerLiveScore/README.md at master · 0m4r/MMM-SoccerLiveScore · GitHub",
+    "path": "/0m4r/MMM-SoccerLiveScore/blob/master/node_helper.js",
+    "title": "MMM-SoccerLiveScore/node_helper.js at master · 0m4r/MMM-SoccerLiveScore · Git...",
     "count": 3,
     "uniques": 3
-  },
-  {
-    "path": "/0m4r/MMM-SoccerLiveScore/blob/master/screenhosts/MMM-SoccerLiveScores-Standings.png",
-    "title": "MMM-SoccerLiveScore/MMM-SoccerLiveScores-Standings.png at master · 0m4r/MMM-S...",
-    "count": 3,
-    "uniques": 2
   },
   {
     "path": "/0m4r/MMM-SoccerLiveScore/blob/master/.editorconfig",
@@ -56,6 +50,12 @@
   {
     "path": "/0m4r/MMM-SoccerLiveScore/blob/master/.prettierrc.js",
     "title": "MMM-SoccerLiveScore/.prettierrc.js at master · 0m4r/MMM-SoccerLiveScore · Git...",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/0m4r/MMM-SoccerLiveScore/blob/master/README.md",
+    "title": "MMM-SoccerLiveScore/README.md at master · 0m4r/MMM-SoccerLiveScore · GitHub",
     "count": 2,
     "uniques": 2
   }
