@@ -2,25 +2,25 @@
   {
     "path": "/0m4r/MMM-SoccerLiveScore",
     "title": "GitHub - 0m4r/MMM-SoccerLiveScore: Displays Soccer-Live-Scores on MagicMirror",
-    "count": 81,
-    "uniques": 55
+    "count": 73,
+    "uniques": 50
   },
   {
     "path": "/0m4r/MMM-SoccerLiveScore/tree/feature/node-fetch",
     "title": "GitHub - 0m4r/MMM-SoccerLiveScore at feature/node-fetch",
-    "count": 8,
+    "count": 7,
     "uniques": 5
-  },
-  {
-    "path": "/0m4r/MMM-SoccerLiveScore/blob/master/node_helper.js",
-    "title": "MMM-SoccerLiveScore/node_helper.js at master · 0m4r/MMM-SoccerLiveScore · Git...",
-    "count": 4,
-    "uniques": 4
   },
   {
     "path": "/0m4r/MMM-SoccerLiveScore/blob/master/MMM-SoccerLiveScore.js",
     "title": "MMM-SoccerLiveScore/MMM-SoccerLiveScore.js at master · 0m4r/MMM-SoccerLiveScore",
     "count": 4,
+    "uniques": 3
+  },
+  {
+    "path": "/0m4r/MMM-SoccerLiveScore/blob/master/node_helper.js",
+    "title": "MMM-SoccerLiveScore/node_helper.js at master · 0m4r/MMM-SoccerLiveScore · Git...",
+    "count": 3,
     "uniques": 3
   },
   {
