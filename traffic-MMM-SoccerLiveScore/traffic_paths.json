@@ -2,7 +2,7 @@
   {
     "path": "/0m4r/MMM-SoccerLiveScore",
     "title": "GitHub - 0m4r/MMM-SoccerLiveScore: Displays Soccer-Live-Scores on MagicMirror",
-    "count": 69,
+    "count": 72,
     "uniques": 50
   },
   {
@@ -12,20 +12,14 @@
     "uniques": 4
   },
   {
-    "path": "/0m4r/MMM-SoccerLiveScore/blob/master/MMM-SoccerLiveScore.js",
-    "title": "MMM-SoccerLiveScore/MMM-SoccerLiveScore.js at master · 0m4r/MMM-SoccerLiveScore",
-    "count": 4,
-    "uniques": 3
-  },
-  {
-    "path": "/0m4r/MMM-SoccerLiveScore/blob/master/node_helper.js",
-    "title": "MMM-SoccerLiveScore/node_helper.js at master · 0m4r/MMM-SoccerLiveScore · Git...",
-    "count": 3,
-    "uniques": 3
-  },
-  {
     "path": "/0m4r/MMM-SoccerLiveScore/blob/master/MMM-SoccerLiveScore.css",
     "title": "MMM-SoccerLiveScore/MMM-SoccerLiveScore.css at master · 0m4r/MMM-SoccerLiveSc...",
+    "count": 3,
+    "uniques": 2
+  },
+  {
+    "path": "/0m4r/MMM-SoccerLiveScore/blob/master/MMM-SoccerLiveScore.js",
+    "title": "MMM-SoccerLiveScore/MMM-SoccerLiveScore.js at master · 0m4r/MMM-SoccerLiveScore",
     "count": 3,
     "uniques": 2
   },
@@ -48,15 +42,21 @@
     "uniques": 1
   },
   {
-    "path": "/0m4r/MMM-SoccerLiveScore/blob/master/.editorconfig",
-    "title": "MMM-SoccerLiveScore/.editorconfig at master · 0m4r/MMM-SoccerLiveScore · GitHub",
+    "path": "/0m4r/MMM-SoccerLiveScore/blob/master/node_helper.js",
+    "title": "MMM-SoccerLiveScore/node_helper.js at master · 0m4r/MMM-SoccerLiveScore · Git...",
     "count": 2,
     "uniques": 2
   },
   {
-    "path": "/0m4r/MMM-SoccerLiveScore/blob/master/package.json",
-    "title": "MMM-SoccerLiveScore/package.json at master · 0m4r/MMM-SoccerLiveScore · GitHub",
+    "path": "/0m4r/MMM-SoccerLiveScore/blob/master/README.md",
+    "title": "MMM-SoccerLiveScore/README.md at master · 0m4r/MMM-SoccerLiveScore · GitHub",
     "count": 2,
     "uniques": 2
+  },
+  {
+    "path": "/0m4r/MMM-SoccerLiveScore/tags",
+    "title": "Tags · 0m4r/MMM-SoccerLiveScore · GitHub",
+    "count": 2,
+    "uniques": 1
   }
 ]
