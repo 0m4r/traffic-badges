@@ -3,13 +3,7 @@
     "path": "/0m4r/MMM-SoccerLiveScore",
     "title": "GitHub - 0m4r/MMM-SoccerLiveScore: Displays Soccer-Live-Scores on MagicMirror",
     "count": 63,
-    "uniques": 45
-  },
-  {
-    "path": "/0m4r/MMM-SoccerLiveScore/tree/feature/node-fetch",
-    "title": "GitHub - 0m4r/MMM-SoccerLiveScore at feature/node-fetch",
-    "count": 6,
-    "uniques": 4
+    "uniques": 44
   },
   {
     "path": "/0m4r/MMM-SoccerLiveScore/find/master",
@@ -44,6 +38,12 @@
   {
     "path": "/0m4r/MMM-SoccerLiveScore/commit/c471a7d917d7103615c5de02171e0bf797dc6d8d",
     "title": "fix: update API endpoint · 0m4r/MMM-SoccerLiveScore@c471a7d · GitHub",
+    "count": 3,
+    "uniques": 2
+  },
+  {
+    "path": "/0m4r/MMM-SoccerLiveScore/tree/feature/node-fetch",
+    "title": "GitHub - 0m4r/MMM-SoccerLiveScore at feature/node-fetch",
     "count": 3,
     "uniques": 2
   },
