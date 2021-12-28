@@ -3,7 +3,7 @@
     "path": "/0m4r/MMM-covid19",
     "title": "GitHub - 0m4r/MMM-covid19: Magic Mirror Module to display stats on Covid19",
     "count": 80,
-    "uniques": 54
+    "uniques": 49
   },
   {
     "path": "/0m4r/MMM-covid19/blob/main/MMM-covid19.js",
@@ -36,18 +36,6 @@
     "uniques": 1
   },
   {
-    "path": "/0m4r/MMM-covid19/commit/7ffa5895e5b232bd3169c68391918a28059d2301",
-    "title": "update README.md · 0m4r/MMM-covid19@7ffa589 · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/0m4r/MMM-covid19/commit/d5101944748919f7a29c42399fd676ba251265de",
-    "title": "chore: update README.md · 0m4r/MMM-covid19@d510194 · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/0m4r/MMM-covid19/commits",
     "title": "Commits · 0m4r/MMM-covid19 · GitHub",
     "count": 1,
@@ -56,6 +44,12 @@
   {
     "path": "/0m4r/MMM-covid19/tree/main/css",
     "title": "MMM-covid19/css at main · 0m4r/MMM-covid19 · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/0m4r/MMM-covid19/tree/main/.github/workflows",
+    "title": "MMM-covid19/.github/workflows at main · 0m4r/MMM-covid19 · GitHub",
     "count": 1,
     "uniques": 1
   }

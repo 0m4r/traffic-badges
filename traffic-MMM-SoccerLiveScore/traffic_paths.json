@@ -2,8 +2,8 @@
   {
     "path": "/0m4r/MMM-SoccerLiveScore",
     "title": "GitHub - 0m4r/MMM-SoccerLiveScore: Displays Soccer-Live-Scores on MagicMirror",
-    "count": 63,
-    "uniques": 44
+    "count": 65,
+    "uniques": 46
   },
   {
     "path": "/0m4r/MMM-SoccerLiveScore/find/master",
@@ -42,12 +42,6 @@
     "uniques": 2
   },
   {
-    "path": "/0m4r/MMM-SoccerLiveScore/tree/feature/node-fetch",
-    "title": "GitHub - 0m4r/MMM-SoccerLiveScore at feature/node-fetch",
-    "count": 3,
-    "uniques": 2
-  },
-  {
     "path": "/0m4r/MMM-SoccerLiveScore/releases/tag/v2.4.0",
     "title": "Release v2.4.0 · 0m4r/MMM-SoccerLiveScore · GitHub",
     "count": 3,
@@ -58,5 +52,11 @@
     "title": "GitHub - 0m4r/MMM-SoccerLiveScore at development",
     "count": 3,
     "uniques": 1
+  },
+  {
+    "path": "/0m4r/MMM-SoccerLiveScore/blob/master/README.md",
+    "title": "MMM-SoccerLiveScore/README.md at master · 0m4r/MMM-SoccerLiveScore · GitHub",
+    "count": 2,
+    "uniques": 2
   }
 ]
