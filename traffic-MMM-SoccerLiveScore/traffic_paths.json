@@ -2,20 +2,8 @@
   {
     "path": "/0m4r/MMM-SoccerLiveScore",
     "title": "GitHub - 0m4r/MMM-SoccerLiveScore: Displays Soccer-Live-Scores on MagicMirror",
-    "count": 65,
-    "uniques": 46
-  },
-  {
-    "path": "/0m4r/MMM-SoccerLiveScore/find/master",
-    "title": "File Finder · GitHub",
-    "count": 4,
-    "uniques": 2
-  },
-  {
-    "path": "/0m4r/MMM-SoccerLiveScore/tree/master/.github/workflows",
-    "title": "MMM-SoccerLiveScore/.github/workflows at master · 0m4r/MMM-SoccerLiveScore · ...",
-    "count": 4,
-    "uniques": 2
+    "count": 58,
+    "uniques": 43
   },
   {
     "path": "/0m4r/MMM-SoccerLiveScore/blob/master/package-lock.json",
@@ -36,20 +24,8 @@
     "uniques": 2
   },
   {
-    "path": "/0m4r/MMM-SoccerLiveScore/commit/c471a7d917d7103615c5de02171e0bf797dc6d8d",
-    "title": "fix: update API endpoint · 0m4r/MMM-SoccerLiveScore@c471a7d · GitHub",
-    "count": 3,
-    "uniques": 2
-  },
-  {
-    "path": "/0m4r/MMM-SoccerLiveScore/releases/tag/v2.4.0",
-    "title": "Release v2.4.0 · 0m4r/MMM-SoccerLiveScore · GitHub",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/0m4r/MMM-SoccerLiveScore/tree/development",
-    "title": "GitHub - 0m4r/MMM-SoccerLiveScore at development",
+    "path": "/0m4r/MMM-SoccerLiveScore/find/master",
+    "title": "File Finder · GitHub",
     "count": 3,
     "uniques": 1
   },
@@ -58,5 +34,29 @@
     "title": "MMM-SoccerLiveScore/README.md at master · 0m4r/MMM-SoccerLiveScore · GitHub",
     "count": 2,
     "uniques": 2
+  },
+  {
+    "path": "/0m4r/MMM-SoccerLiveScore/issues",
+    "title": "Issues · 0m4r/MMM-SoccerLiveScore · GitHub",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/0m4r/MMM-SoccerLiveScore/blob/master/.github/workflows/github-traffic-action_cron-trigger.yml",
+    "title": "MMM-SoccerLiveScore/github-traffic-action_cron-trigger.yml at master · 0m4r/M...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/0m4r/MMM-SoccerLiveScore/commit/c471a7d917d7103615c5de02171e0bf797dc6d8d",
+    "title": "fix: update API endpoint · 0m4r/MMM-SoccerLiveScore@c471a7d · GitHub",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/0m4r/MMM-SoccerLiveScore/tree/master/.github/workflows",
+    "title": "MMM-SoccerLiveScore/.github/workflows at master · 0m4r/MMM-SoccerLiveScore · ...",
+    "count": 2,
+    "uniques": 1
   }
 ]
