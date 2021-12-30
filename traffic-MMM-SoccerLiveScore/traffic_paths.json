@@ -3,60 +3,60 @@
     "path": "/0m4r/MMM-SoccerLiveScore",
     "title": "GitHub - 0m4r/MMM-SoccerLiveScore: Displays Soccer-Live-Scores on MagicMirror",
     "count": 58,
-    "uniques": 43
+    "uniques": 40
   },
   {
     "path": "/0m4r/MMM-SoccerLiveScore/blob/master/package-lock.json",
     "title": "MMM-SoccerLiveScore/package-lock.json at master · 0m4r/MMM-SoccerLiveScore · ...",
-    "count": 4,
-    "uniques": 1
+    "count": 6,
+    "uniques": 3
+  },
+  {
+    "path": "/0m4r/MMM-SoccerLiveScore/tree/master/screenshots",
+    "title": "MMM-SoccerLiveScore/screenshots at master · 0m4r/MMM-SoccerLiveScore · GitHub",
+    "count": 6,
+    "uniques": 2
   },
   {
     "path": "/0m4r/MMM-SoccerLiveScore/blob/master/MMM-SoccerLiveScore.css",
     "title": "MMM-SoccerLiveScore/MMM-SoccerLiveScore.css at master · 0m4r/MMM-SoccerLiveSc...",
-    "count": 3,
+    "count": 5,
+    "uniques": 3
+  },
+  {
+    "path": "/0m4r/MMM-SoccerLiveScore/blob/master/README.md",
+    "title": "MMM-SoccerLiveScore/README.md at master · 0m4r/MMM-SoccerLiveScore · GitHub",
+    "count": 5,
+    "uniques": 3
+  },
+  {
+    "path": "/0m4r/MMM-SoccerLiveScore/blob/master/screenshots/MMM-SoccerLiveScores-Scorers.png",
+    "title": "MMM-SoccerLiveScore/MMM-SoccerLiveScores-Scorers.png at master · 0m4r/MMM-Soc...",
+    "count": 5,
     "uniques": 2
   },
   {
     "path": "/0m4r/MMM-SoccerLiveScore/blob/master/MMM-SoccerLiveScore.js",
     "title": "MMM-SoccerLiveScore/MMM-SoccerLiveScore.js at master · 0m4r/MMM-SoccerLiveScore",
-    "count": 3,
-    "uniques": 2
+    "count": 4,
+    "uniques": 3
   },
   {
     "path": "/0m4r/MMM-SoccerLiveScore/find/master",
     "title": "File Finder · GitHub",
+    "count": 4,
+    "uniques": 2
+  },
+  {
+    "path": "/0m4r/MMM-SoccerLiveScore/blob/master/package.json",
+    "title": "MMM-SoccerLiveScore/package.json at master · 0m4r/MMM-SoccerLiveScore · GitHub",
     "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/0m4r/MMM-SoccerLiveScore/blob/master/README.md",
-    "title": "MMM-SoccerLiveScore/README.md at master · 0m4r/MMM-SoccerLiveScore · GitHub",
-    "count": 2,
     "uniques": 2
   },
   {
-    "path": "/0m4r/MMM-SoccerLiveScore/issues",
-    "title": "Issues · 0m4r/MMM-SoccerLiveScore · GitHub",
-    "count": 2,
+    "path": "/0m4r/MMM-SoccerLiveScore/blob/master/screenshots/MMM-SoccerLiveScores-Tables.png",
+    "title": "MMM-SoccerLiveScore/MMM-SoccerLiveScores-Tables.png at master · 0m4r/MMM-Socc...",
+    "count": 3,
     "uniques": 2
-  },
-  {
-    "path": "/0m4r/MMM-SoccerLiveScore/blob/master/.github/workflows/github-traffic-action_cron-trigger.yml",
-    "title": "MMM-SoccerLiveScore/github-traffic-action_cron-trigger.yml at master · 0m4r/M...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/0m4r/MMM-SoccerLiveScore/commit/c471a7d917d7103615c5de02171e0bf797dc6d8d",
-    "title": "fix: update API endpoint · 0m4r/MMM-SoccerLiveScore@c471a7d · GitHub",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/0m4r/MMM-SoccerLiveScore/tree/master/.github/workflows",
-    "title": "MMM-SoccerLiveScore/.github/workflows at master · 0m4r/MMM-SoccerLiveScore · ...",
-    "count": 2,
-    "uniques": 1
   }
 ]
