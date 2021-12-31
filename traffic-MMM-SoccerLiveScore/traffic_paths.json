@@ -2,8 +2,8 @@
   {
     "path": "/0m4r/MMM-SoccerLiveScore",
     "title": "GitHub - 0m4r/MMM-SoccerLiveScore: Displays Soccer-Live-Scores on MagicMirror",
-    "count": 58,
-    "uniques": 40
+    "count": 62,
+    "uniques": 39
   },
   {
     "path": "/0m4r/MMM-SoccerLiveScore/blob/master/package-lock.json",
@@ -18,28 +18,16 @@
     "uniques": 2
   },
   {
-    "path": "/0m4r/MMM-SoccerLiveScore/blob/master/MMM-SoccerLiveScore.css",
-    "title": "MMM-SoccerLiveScore/MMM-SoccerLiveScore.css at master · 0m4r/MMM-SoccerLiveSc...",
-    "count": 5,
-    "uniques": 3
-  },
-  {
-    "path": "/0m4r/MMM-SoccerLiveScore/blob/master/README.md",
-    "title": "MMM-SoccerLiveScore/README.md at master · 0m4r/MMM-SoccerLiveScore · GitHub",
-    "count": 5,
-    "uniques": 3
-  },
-  {
     "path": "/0m4r/MMM-SoccerLiveScore/blob/master/screenshots/MMM-SoccerLiveScores-Scorers.png",
     "title": "MMM-SoccerLiveScore/MMM-SoccerLiveScores-Scorers.png at master · 0m4r/MMM-Soc...",
     "count": 5,
     "uniques": 2
   },
   {
-    "path": "/0m4r/MMM-SoccerLiveScore/blob/master/MMM-SoccerLiveScore.js",
-    "title": "MMM-SoccerLiveScore/MMM-SoccerLiveScore.js at master · 0m4r/MMM-SoccerLiveScore",
+    "path": "/0m4r/MMM-SoccerLiveScore/blob/master/README.md",
+    "title": "MMM-SoccerLiveScore/README.md at master · 0m4r/MMM-SoccerLiveScore · GitHub",
     "count": 4,
-    "uniques": 3
+    "uniques": 2
   },
   {
     "path": "/0m4r/MMM-SoccerLiveScore/find/master",
@@ -58,5 +46,17 @@
     "title": "MMM-SoccerLiveScore/MMM-SoccerLiveScores-Tables.png at master · 0m4r/MMM-Socc...",
     "count": 3,
     "uniques": 2
+  },
+  {
+    "path": "/0m4r/MMM-SoccerLiveScore/blob/master/MMM-SoccerLiveScore.js",
+    "title": "MMM-SoccerLiveScore/MMM-SoccerLiveScore.js at master · 0m4r/MMM-SoccerLiveSco...",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/0m4r/MMM-SoccerLiveScore/blob/master/.github/workflows/github-traffic-action_cron-trigger.yml",
+    "title": "MMM-SoccerLiveScore/github-traffic-action_cron-trigger.yml at master · 0m4r/M...",
+    "count": 2,
+    "uniques": 1
   }
 ]
