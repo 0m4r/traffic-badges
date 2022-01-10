@@ -2,20 +2,26 @@
   {
     "path": "/0m4r/MMM-covid19",
     "title": "GitHub - 0m4r/MMM-covid19: Magic Mirror Module to display stats on Covid19",
-    "count": 116,
-    "uniques": 69
+    "count": 121,
+    "uniques": 71
   },
   {
-    "path": "/0m4r/MMM-covid19/tree/feat/new-api-corona-lmao-ninja",
-    "title": "0m4r/MMM-covid19 at feat/new-api-corona-lmao-ninja",
-    "count": 6,
-    "uniques": 3
+    "path": "/0m4r/MMM-covid19/commit/15480d1298dd078288383634a5c3782a53e880b4",
+    "title": "0.2.0 · 0m4r/MMM-covid19@15480d1 · GitHub",
+    "count": 4,
+    "uniques": 4
   },
   {
     "path": "/0m4r/MMM-covid19/commit/62eeb8ec82e19f02a156c956c62ed33afb43f0ff",
     "title": "0.2.2 · 0m4r/MMM-covid19@62eeb8e · GitHub",
-    "count": 3,
-    "uniques": 3
+    "count": 4,
+    "uniques": 4
+  },
+  {
+    "path": "/0m4r/MMM-covid19/tree/feat/new-api-corona-lmao-ninja",
+    "title": "0m4r/MMM-covid19 at feat/new-api-corona-lmao-ninja",
+    "count": 4,
+    "uniques": 2
   },
   {
     "path": "/0m4r/MMM-covid19/issues",
@@ -24,38 +30,32 @@
     "uniques": 2
   },
   {
-    "path": "/0m4r/MMM-covid19/commit/15480d1298dd078288383634a5c3782a53e880b4",
-    "title": "0.2.0 · 0m4r/MMM-covid19@15480d1 · GitHub",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/0m4r/MMM-covid19/blob/feat/new-api-corona-lmao-ninja/docs/MMM-covid19.png",
-    "title": "MMM-covid19/MMM-covid19.png at feat/new-api-corona-lmao-ninja · 0m4r/MMM-covi...",
+    "path": "/0m4r/MMM-covid19/blob/main/README.md",
+    "title": "MMM-covid19/README.md at main · 0m4r/MMM-covid19 · GitHub",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/0m4r/MMM-covid19/blob/feat/new-api-corona-lmao-ninja/MMM-covid19.js",
-    "title": "MMM-covid19/MMM-covid19.js at feat/new-api-corona-lmao-ninja · 0m4r/MMM-covid19",
+    "path": "/0m4r/MMM-covid19/commit/83d1389f3a57425785b947590e1cab161993e286",
+    "title": "0.2.5 · 0m4r/MMM-covid19@83d1389 · GitHub",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/0m4r/MMM-covid19/blob/feat/new-api-corona-lmao-ninja/node_helper.js",
-    "title": "MMM-covid19/node_helper.js at feat/new-api-corona-lmao-ninja · 0m4r/MMM-covid19",
+    "path": "/0m4r/MMM-covid19/find/main",
+    "title": "File Finder · GitHub",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/0m4r/MMM-covid19/blob/feat/new-api-corona-lmao-ninja/package.json",
-    "title": "MMM-covid19/package.json at feat/new-api-corona-lmao-ninja · 0m4r/MMM-covid19",
+    "path": "/0m4r/MMM-covid19/pull/10",
+    "title": "feat: add node-schedule by 0m4r · Pull Request #10 · 0m4r/MMM-covid19 · GitHub",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/0m4r/MMM-covid19/blob/main/MMM-covid19.js",
-    "title": "MMM-covid19/MMM-covid19.js at main · 0m4r/MMM-covid19",
+    "path": "/0m4r/MMM-covid19/tree/037effbd78094dc95953001051f4510c94aea37b",
+    "title": "GitHub - 0m4r/MMM-covid19 at 037effbd78094dc95953001051f4510c94aea37b",
     "count": 1,
     "uniques": 1
   }
