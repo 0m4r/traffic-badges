@@ -2,8 +2,8 @@
   {
     "path": "/0m4r/MMM-covid19",
     "title": "GitHub - 0m4r/MMM-covid19: Magic Mirror Module to display stats on Covid19",
-    "count": 117,
-    "uniques": 66
+    "count": 132,
+    "uniques": 70
   },
   {
     "path": "/0m4r/MMM-covid19/commit/15480d1298dd078288383634a5c3782a53e880b4",
@@ -24,22 +24,16 @@
     "uniques": 2
   },
   {
-    "path": "/0m4r/MMM-covid19/blob/main/README.md",
-    "title": "MMM-covid19/README.md at main · 0m4r/MMM-covid19 · GitHub",
+    "path": "/0m4r/MMM-covid19/blob/main/MMM-covid19.js",
+    "title": "MMM-covid19/MMM-covid19.js at main · 0m4r/MMM-covid19 · GitHub",
     "count": 2,
     "uniques": 2
   },
   {
-    "path": "/0m4r/MMM-covid19/tree/feat/new-api-corona-lmao-ninja",
-    "title": "0m4r/MMM-covid19 at feat/new-api-corona-lmao-ninja",
+    "path": "/0m4r/MMM-covid19/blob/main/README.md",
+    "title": "MMM-covid19/README.md at main · 0m4r/MMM-covid19 · GitHub",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/0m4r/MMM-covid19/blob/main/MMM-covid19.js",
-    "title": "MMM-covid19/MMM-covid19.js at main · 0m4r/MMM-covid19 · GitHub",
-    "count": 1,
-    "uniques": 1
+    "uniques": 2
   },
   {
     "path": "/0m4r/MMM-covid19/find/main",
@@ -54,8 +48,14 @@
     "uniques": 1
   },
   {
-    "path": "/0m4r/MMM-covid19/tree/2d884829deece2c6fbc3979a301399fde02b1b1f",
-    "title": "GitHub - 0m4r/MMM-covid19 at 2d884829deece2c6fbc3979a301399fde02b1b1f",
+    "path": "/0m4r/MMM-covid19/tree/feat/new-api-corona-lmao-ninja",
+    "title": "0m4r/MMM-covid19 at feat/new-api-corona-lmao-ninja",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/0m4r/MMM-covid19/tree/main/.github/workflows",
+    "title": "MMM-covid19/.github/workflows at main · 0m4r/MMM-covid19 · GitHub",
     "count": 1,
     "uniques": 1
   }
