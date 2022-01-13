@@ -3,7 +3,7 @@
     "path": "/0m4r/MMM-covid19",
     "title": "GitHub - 0m4r/MMM-covid19: Magic Mirror Module to display stats on Covid19",
     "count": 132,
-    "uniques": 70
+    "uniques": 68
   },
   {
     "path": "/0m4r/MMM-covid19/commit/15480d1298dd078288383634a5c3782a53e880b4",
@@ -20,8 +20,8 @@
   {
     "path": "/0m4r/MMM-covid19/issues",
     "title": "Issues · 0m4r/MMM-covid19 · GitHub",
-    "count": 3,
-    "uniques": 2
+    "count": 4,
+    "uniques": 3
   },
   {
     "path": "/0m4r/MMM-covid19/blob/main/MMM-covid19.js",
@@ -36,6 +36,18 @@
     "uniques": 2
   },
   {
+    "path": "/0m4r/MMM-covid19/actions",
+    "title": "Actions · 0m4r/MMM-covid19 · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/0m4r/MMM-covid19/actions/runs/1675202449",
+    "title": "2.0.0 · 0m4r/MMM-covid19@e340cf0 · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/0m4r/MMM-covid19/find/main",
     "title": "File Finder · GitHub",
     "count": 1,
@@ -44,18 +56,6 @@
   {
     "path": "/0m4r/MMM-covid19/pull/10",
     "title": "feat: add node-schedule by 0m4r · Pull Request #10 · 0m4r/MMM-covid19 · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/0m4r/MMM-covid19/tree/feat/new-api-corona-lmao-ninja",
-    "title": "0m4r/MMM-covid19 at feat/new-api-corona-lmao-ninja",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/0m4r/MMM-covid19/tree/main/.github/workflows",
-    "title": "MMM-covid19/.github/workflows at main · 0m4r/MMM-covid19 · GitHub",
     "count": 1,
     "uniques": 1
   }
