@@ -2,20 +2,20 @@
   {
     "path": "/0m4r/MMM-SoccerLiveScore",
     "title": "GitHub - 0m4r/MMM-SoccerLiveScore: Displays Soccer-Live-Scores on MagicMirror",
-    "count": 94,
-    "uniques": 43
+    "count": 103,
+    "uniques": 48
   },
   {
     "path": "/0m4r/MMM-SoccerLiveScore/issues",
     "title": "Issues · 0m4r/MMM-SoccerLiveScore · GitHub",
-    "count": 7,
-    "uniques": 5
+    "count": 8,
+    "uniques": 6
   },
   {
     "path": "/0m4r/MMM-SoccerLiveScore/blob/master/MMM-SoccerLiveScore.js",
     "title": "MMM-SoccerLiveScore/MMM-SoccerLiveScore.js at master · 0m4r/MMM-SoccerLiveScore",
-    "count": 6,
-    "uniques": 3
+    "count": 7,
+    "uniques": 4
   },
   {
     "path": "/0m4r/MMM-SoccerLiveScore/network/members",
@@ -26,14 +26,20 @@
   {
     "path": "/0m4r/MMM-SoccerLiveScore/blob/master/node_helper.js",
     "title": "MMM-SoccerLiveScore/node_helper.js at master · 0m4r/MMM-SoccerLiveScore · Git...",
-    "count": 4,
-    "uniques": 2
+    "count": 5,
+    "uniques": 3
   },
   {
     "path": "/0m4r/MMM-SoccerLiveScore/commit/9c302f1c2f55c2b68bbebf9285008160a258985a",
     "title": "3.1.2 · 0m4r/MMM-SoccerLiveScore@9c302f1 · GitHub",
     "count": 3,
     "uniques": 1
+  },
+  {
+    "path": "/0m4r/MMM-SoccerLiveScore/blob/master/MMM-SoccerLiveScore.css",
+    "title": "MMM-SoccerLiveScore/MMM-SoccerLiveScore.css at master · 0m4r/MMM-SoccerLiveSc...",
+    "count": 2,
+    "uniques": 2
   },
   {
     "path": "/0m4r/MMM-SoccerLiveScore/blob/master/.github/workflows/github-traffic-action_cron-trigger.yml",
@@ -50,12 +56,6 @@
   {
     "path": "/0m4r/MMM-SoccerLiveScore/blob/master/.editorconfig",
     "title": "MMM-SoccerLiveScore/.editorconfig at master · 0m4r/MMM-SoccerLiveScore · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/0m4r/MMM-SoccerLiveScore/blob/master/.eslintrc.js",
-    "title": "MMM-SoccerLiveScore/.eslintrc.js at master · 0m4r/MMM-SoccerLiveScore · GitHub",
     "count": 1,
     "uniques": 1
   }
