@@ -1,8 +1,8 @@
 [
   {
     "referrer": "github.com",
-    "count": 125,
-    "uniques": 69
+    "count": 124,
+    "uniques": 65
   },
   {
     "referrer": "m.sogou.com",
@@ -16,6 +16,11 @@
   },
   {
     "referrer": "huenerfuerst.de",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "Google",
     "count": 1,
     "uniques": 1
   }
