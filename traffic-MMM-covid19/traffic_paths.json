@@ -2,8 +2,14 @@
   {
     "path": "/0m4r/MMM-covid19",
     "title": "GitHub - 0m4r/MMM-covid19: Magic Mirror Module to display stats on Covid19",
-    "count": 134,
-    "uniques": 68
+    "count": 130,
+    "uniques": 66
+  },
+  {
+    "path": "/0m4r/MMM-covid19/commit/62eeb8ec82e19f02a156c956c62ed33afb43f0ff",
+    "title": "0.2.2 · 0m4r/MMM-covid19@62eeb8e · GitHub",
+    "count": 5,
+    "uniques": 5
   },
   {
     "path": "/0m4r/MMM-covid19/blob/main/MMM-covid19.js",
@@ -14,12 +20,6 @@
   {
     "path": "/0m4r/MMM-covid19/commit/15480d1298dd078288383634a5c3782a53e880b4",
     "title": "0.2.0 · 0m4r/MMM-covid19@15480d1 · GitHub",
-    "count": 4,
-    "uniques": 4
-  },
-  {
-    "path": "/0m4r/MMM-covid19/commit/62eeb8ec82e19f02a156c956c62ed33afb43f0ff",
-    "title": "0.2.2 · 0m4r/MMM-covid19@62eeb8e · GitHub",
     "count": 4,
     "uniques": 4
   },
