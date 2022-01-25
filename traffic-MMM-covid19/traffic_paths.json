@@ -2,20 +2,14 @@
   {
     "path": "/0m4r/MMM-covid19",
     "title": "GitHub - 0m4r/MMM-covid19: Magic Mirror Module to display stats on Covid19",
-    "count": 94,
-    "uniques": 46
+    "count": 102,
+    "uniques": 51
   },
   {
     "path": "/0m4r/MMM-covid19/tree/main/docs",
     "title": "MMM-covid19/docs at main · 0m4r/MMM-covid19 · GitHub",
     "count": 4,
     "uniques": 1
-  },
-  {
-    "path": "/0m4r/MMM-covid19/issues",
-    "title": "Issues · 0m4r/MMM-covid19 · GitHub",
-    "count": 3,
-    "uniques": 2
   },
   {
     "path": "/0m4r/MMM-covid19/blob/main/css/style.css",
@@ -50,6 +44,12 @@
   {
     "path": "/0m4r/MMM-covid19/issues/6",
     "title": "HK doesn't work · Issue #6 · 0m4r/MMM-covid19 · GitHub",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/0m4r/MMM-covid19/tree/037effbd78094dc95953001051f4510c94aea37b",
+    "title": "GitHub - 0m4r/MMM-covid19 at 037effbd78094dc95953001051f4510c94aea37b",
     "count": 2,
     "uniques": 2
   },
