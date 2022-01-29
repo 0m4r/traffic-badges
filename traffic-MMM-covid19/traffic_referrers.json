@@ -1,8 +1,8 @@
 [
   {
     "referrer": "github.com",
-    "count": 73,
-    "uniques": 43
+    "count": 70,
+    "uniques": 41
   },
   {
     "referrer": "m.sogou.com",
@@ -13,11 +13,6 @@
     "referrer": "Bing",
     "count": 2,
     "uniques": 2
-  },
-  {
-    "referrer": "Google",
-    "count": 1,
-    "uniques": 1
   },
   {
     "referrer": "DuckDuckGo",

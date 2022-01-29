@@ -2,14 +2,8 @@
   {
     "path": "/0m4r/MMM-SoccerLiveScore",
     "title": "GitHub - 0m4r/MMM-SoccerLiveScore: Displays Soccer-Live-Scores on MagicMirror",
-    "count": 52,
-    "uniques": 40
-  },
-  {
-    "path": "/0m4r/MMM-SoccerLiveScore/commit/5745d208d94d85eff083cfeefd781512d046310f",
-    "title": "feat: issue next API request 5 mins before the next game start time · 0m4r/MM...",
-    "count": 2,
-    "uniques": 2
+    "count": 47,
+    "uniques": 36
   },
   {
     "path": "/0m4r/MMM-SoccerLiveScore/blob/9c302f1c2f55c2b68bbebf9285008160a258985a/.gitignore",
@@ -54,8 +48,14 @@
     "uniques": 1
   },
   {
-    "path": "/0m4r/MMM-SoccerLiveScore/blob/master/package.json",
-    "title": "MMM-SoccerLiveScore/package.json at master · 0m4r/MMM-SoccerLiveScore · GitHub",
+    "path": "/0m4r/MMM-SoccerLiveScore/blob/master/screenshots/MMM-SoccerLiveScores-Scorers.png",
+    "title": "MMM-SoccerLiveScore/MMM-SoccerLiveScores-Scorers.png at master · 0m4r/MMM-Soc...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/0m4r/MMM-SoccerLiveScore/blob/master/screenshots/MMM-SoccerLiveScores-Standings%2BDetails.png",
+    "title": "MMM-SoccerLiveScore/MMM-SoccerLiveScores-Standings+Details.png at master · 0m...",
     "count": 1,
     "uniques": 1
   }
