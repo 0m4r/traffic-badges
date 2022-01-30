@@ -2,44 +2,8 @@
   {
     "path": "/0m4r/MMM-SoccerLiveScore",
     "title": "GitHub - 0m4r/MMM-SoccerLiveScore: Displays Soccer-Live-Scores on MagicMirror",
-    "count": 47,
-    "uniques": 36
-  },
-  {
-    "path": "/0m4r/MMM-SoccerLiveScore/blob/9c302f1c2f55c2b68bbebf9285008160a258985a/.gitignore",
-    "title": "MMM-SoccerLiveScore/.gitignore at 9c302f1c2f55c2b68bbebf9285008160a258985a · ...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/0m4r/MMM-SoccerLiveScore/blob/9c302f1c2f55c2b68bbebf9285008160a258985a/LICENCE",
-    "title": "MMM-SoccerLiveScore/LICENCE at 9c302f1c2f55c2b68bbebf9285008160a258985a · 0m4...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/0m4r/MMM-SoccerLiveScore/blob/9c302f1c2f55c2b68bbebf9285008160a258985a/MMM-SoccerLiveScore.js",
-    "title": "MMM-SoccerLiveScore/MMM-SoccerLiveScore.js at 9c302f1c2f55c2b68bbebf928500816...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/0m4r/MMM-SoccerLiveScore/blob/9c302f1c2f55c2b68bbebf9285008160a258985a/node_helper.js",
-    "title": "MMM-SoccerLiveScore/node_helper.js at 9c302f1c2f55c2b68bbebf9285008160a258985...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/0m4r/MMM-SoccerLiveScore/blob/9c302f1c2f55c2b68bbebf9285008160a258985a/README.md",
-    "title": "MMM-SoccerLiveScore/README.md at 9c302f1c2f55c2b68bbebf9285008160a258985a · 0...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/0m4r/MMM-SoccerLiveScore/blob/9c302f1c2f55c2b68bbebf9285008160a258985a/screenshots/MMM-SoccerLiveScores-Standings%2BDetails.png",
-    "title": "MMM-SoccerLiveScore/MMM-SoccerLiveScores-Standings+Details.png at 9c302f1c2f5...",
-    "count": 1,
-    "uniques": 1
+    "count": 46,
+    "uniques": 35
   },
   {
     "path": "/0m4r/MMM-SoccerLiveScore/blob/master/node_helper.js",
@@ -56,6 +20,36 @@
   {
     "path": "/0m4r/MMM-SoccerLiveScore/blob/master/screenshots/MMM-SoccerLiveScores-Standings%2BDetails.png",
     "title": "MMM-SoccerLiveScore/MMM-SoccerLiveScores-Standings+Details.png at master · 0m...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/0m4r/MMM-SoccerLiveScore/blob/master/screenshots/MMM-SoccerLiveScores-Standings.png",
+    "title": "MMM-SoccerLiveScore/MMM-SoccerLiveScores-Standings.png at master · 0m4r/MMM-S...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/0m4r/MMM-SoccerLiveScore/blob/master/screenshots/MMM-SoccerLiveScores-Tables.png",
+    "title": "MMM-SoccerLiveScore/MMM-SoccerLiveScores-Tables.png at master · 0m4r/MMM-Socc...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/0m4r/MMM-SoccerLiveScore/issues",
+    "title": "Issues · 0m4r/MMM-SoccerLiveScore · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/0m4r/MMM-SoccerLiveScore/tree/master/.github/workflows",
+    "title": "MMM-SoccerLiveScore/.github/workflows at master · 0m4r/MMM-SoccerLiveScore · ...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/0m4r/MMM-SoccerLiveScore/tree/master/screenshots",
+    "title": "MMM-SoccerLiveScore/screenshots at master · 0m4r/MMM-SoccerLiveScore · GitHub",
     "count": 1,
     "uniques": 1
   }
